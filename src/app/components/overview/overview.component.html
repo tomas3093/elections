@@ -1,0 +1,17 @@
+<div class="header">Zoznam kandidujúcich politických strán</div>
+
+<div class="container">
+  <div
+    class="party"
+    *ngFor="let item of parties"
+    (click)="itemClicked.emit(item.id)"
+  >
+    <div class="logo">
+      <img src="./../../../assets/{{ item.logo }}" alt="" width="50" />
+    </div>
+    <div class="text-box">
+      <div>{{ item.id }}. {{ item.name }}</div>
+      <div>Počet kandidátov: {{ item.candidates }}</div>
+    </div>
+  </div>
+</div>

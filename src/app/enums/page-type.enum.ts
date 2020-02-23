@@ -1,4 +1,6 @@
 export enum PageType {
   PARTY = 1,
-  OVERVIEW
+  OVERVIEW,
+  ABOUT,
+  COMPARISON
 }

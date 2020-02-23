@@ -1,0 +1,33 @@
+<div class="party">
+  <div class="header">
+    <div class="navigation-bar">
+      <div class="arrow left" (click)="navLeft.emit()"><<<<<-</div>
+      <div class="arrow right" (click)="navRight.emit()">->>>>></div>
+      <div class="clear"></div>
+    </div>
+    <div class="logo">
+      <img src="./../../../assets/{{ party.logo }}" alt="" width="150" />
+    </div>
+    <div class="text-box">
+      <div>{{ party.id }}. {{ party.name }}</div>
+      <div>Počet kandidátov: {{ party.candidates }}</div>
+      <div>
+        <a
+          href="http://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/NR20_{{
+            party.id | twoDigit
+          }}.pdf"
+          >Kandidáti</a
+        >
+      </div>
+    </div>
+  </div>
+
+  <div class="graphs">
+    <div id="chart-age" class="chart"></div>
+    <!-- <div>Priemerný vek: {{ ageData.age_avg }}</div> -->
+
+    <div id="chart-education" class="chart"></div>
+    <div id="chart-job" class="chart"></div>
+    <div id="chart-geo" class="chart"></div>
+  </div>
+</div>

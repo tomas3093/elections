@@ -21,7 +21,7 @@
   background-size: contain;
   display: inline-block;
   vertical-align: middle;
-  background-image: url("./../../assets/logo.png");
+  background-image: url("./../../../assets/logo.png");
   width: 60px;
   height: 75px;
 }
@@ -41,12 +41,11 @@
 
 .menu-item {
   display: inline-block;
-  width: 100px;
   height: 100%;
   vertical-align: middle;
   font-size: 14px;
   font-weight: normal;
-  margin-right: 20px;
+  margin-right: 25px;
   text-align: center;
 }
 
@@ -68,4 +67,8 @@
   background-color: rgba(0, 0, 0, 0.87);
   text-align: center;
   color: #ffffff;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }

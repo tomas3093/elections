@@ -1,0 +1,57 @@
+.arrow {
+  text-align: center;
+  width: 250px;
+  font-weight: 800;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.719);
+}
+
+.arrow.left {
+  float: left;
+}
+
+.arrow.right {
+  float: right;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.text-box {
+  display: inline-block;
+}
+
+a:hover {
+  background-color: rgba(0, 0, 0, 0.096);
+  text-decoration: underline;
+}
+
+.graphs {
+  width: 100%;
+}
+
+.chart {
+  width: 50%;
+  height: 450px;
+  display: inline-block;
+}
+
+@media only screen and (max-width: 600px) {
+  .chart {
+    width: 100%;
+    display: block;
+  }
+}
+
+#chart-age {
+  /* padding-bottom: 500px; */
+}
+
+#chart-education {
+}
+
+.canvasjs-chart-canvas {
+  position: static;
+}
