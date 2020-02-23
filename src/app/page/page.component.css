@@ -1,0 +1,71 @@
+:host {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  background-image: radial-gradient(
+      circle at 86% 0,
+      #498fff,
+      rgba(12, 59, 132, 0)
+    ),
+    linear-gradient(to bottom, #140088, #140088);
+  color: #ffffff;
+}
+
+.logo {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url("./../../assets/logo.png");
+  width: 60px;
+  height: 75px;
+}
+
+.label {
+  display: inline-block;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.menu {
+  vertical-align: middle;
+  color: #ffffff;
+  padding: 16px 0;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.menu-item {
+  display: inline-block;
+  width: 100px;
+  height: 100%;
+  vertical-align: middle;
+  font-size: 14px;
+  font-weight: normal;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.menu-item:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.menu-item:last-of-type {
+  margin-right: 0;
+}
+
+.footer {
+  padding: 20px 0;
+  margin-top: 36px;
+  font-size: 8px;
+  font-weight: normal;
+  background-color: rgba(0, 0, 0, 0.87);
+  text-align: center;
+  color: #ffffff;
+}
