@@ -5,9 +5,7 @@
       <div class="arrow right" (click)="navRight.emit()">->>>>></div>
       <div class="clear"></div>
     </div>
-    <div class="logo">
-      <img src="./../../../assets/{{ party.logo }}" alt="" width="150" />
-    </div>
+    <div class="logo logo{{ party.id }}"></div>
     <div class="text-box">
       <div>{{ party.id }}. {{ party.name }}</div>
       <div>Počet kandidátov: {{ party.candidates }}</div>

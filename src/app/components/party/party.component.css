@@ -16,7 +16,13 @@
 }
 
 .logo {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
   display: inline-block;
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
 }
 
 .text-box {
