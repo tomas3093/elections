@@ -10,6 +10,7 @@ import { PartyEducationData } from '../interfaces/party-education-data';
 import { PartyGeoData } from '../interfaces/party-geo-data';
 import { PartyJobData } from '../interfaces/party-job-data';
 import { PartyListItem } from '../interfaces/party-list-item';
+import { TwoDigitPercentagePipe } from '../pipes/two-digit-percentage.pipe';
 
 @Injectable({
   providedIn: "root"
@@ -774,6 +775,8 @@ export class DataService {
     ]
   };
 
+  constructor(private percentagePipe: TwoDigitPercentagePipe) {}
+
   private getDataIndex(partyId: number): number {
     return this.data.cislo_listiny.indexOf(partyId);
   }
@@ -849,12 +852,30 @@ export class DataService {
 
   getAgeData(partyId: number): PartyAgeData {
     const item: PartyAgeData = {
-      age_below_25: this.data.vek_pod_25[this.getDataIndex(partyId)],
-      age_25_35: this.data.vek_25_35[this.getDataIndex(partyId)],
-      age_35_45: this.data.vek_35_45[this.getDataIndex(partyId)],
-      age_45_55: this.data.vek_45_55[this.getDataIndex(partyId)],
-      age_55_65: this.data.vek_55_65[this.getDataIndex(partyId)],
-      age_above_65: this.data.vek_nad_65[this.getDataIndex(partyId)],
+      age_below_25: this.percentagePipe.transform(
+        this.data.vek_pod_25[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      age_25_35: this.percentagePipe.transform(
+        this.data.vek_25_35[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      age_35_45: this.percentagePipe.transform(
+        this.data.vek_35_45[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      age_45_55: this.percentagePipe.transform(
+        this.data.vek_45_55[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      age_55_65: this.percentagePipe.transform(
+        this.data.vek_55_65[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      age_above_65: this.percentagePipe.transform(
+        this.data.vek_nad_65[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
       age_avg: this.data.vek_priem[this.getDataIndex(partyId)]
     };
 
@@ -863,14 +884,25 @@ export class DataService {
 
   getEducationData(partyId: number): PartyEducationData {
     const item: PartyEducationData = {
-      grade_1: this.data.vs_1_stupen[this.getDataIndex(partyId)],
-      grade_2: this.data.vs_2_stupen[this.getDataIndex(partyId)],
-      grade_3: this.data.vs_3_stupen[this.getDataIndex(partyId)],
-      no_grade:
+      grade_1: this.percentagePipe.transform(
+        this.data.vs_1_stupen[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      grade_2: this.percentagePipe.transform(
+        this.data.vs_2_stupen[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      grade_3: this.percentagePipe.transform(
+        this.data.vs_3_stupen[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      no_grade: this.percentagePipe.transform(
         this.data.kandidati[this.getDataIndex(partyId)] -
-        this.data.vs_1_stupen[this.getDataIndex(partyId)] -
-        this.data.vs_2_stupen[this.getDataIndex(partyId)] -
-        this.data.vs_3_stupen[this.getDataIndex(partyId)]
+          this.data.vs_1_stupen[this.getDataIndex(partyId)] -
+          this.data.vs_2_stupen[this.getDataIndex(partyId)] -
+          this.data.vs_3_stupen[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      )
     };
 
     return item;
@@ -878,7 +910,10 @@ export class DataService {
 
   getGeoData(partyId: number): PartyGeoData {
     const item: PartyGeoData = {
-      ba: this.data.ba[this.getDataIndex(partyId)],
+      ba: this.percentagePipe.transform(
+        this.data.ba[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
       // ke: this.data.ke[this.getDataIndex(partyId)],
       // po: this.data.po[this.getDataIndex(partyId)],
       // nr: this.data.nr[this.getDataIndex(partyId)],
@@ -889,9 +924,11 @@ export class DataService {
       // tr: this.data.tr[this.getDataIndex(partyId)],
       // pp: this.data.pp[this.getDataIndex(partyId)],
       // pn: this.data.pn[this.getDataIndex(partyId)],
-      other:
+      other: this.percentagePipe.transform(
         this.data.kandidati[this.getDataIndex(partyId)] -
-        this.data.ba[this.getDataIndex(partyId)]
+          this.data.ba[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      )
       // this.data.ke[this.getDataIndex(partyId)] -
       // this.data.po[this.getDataIndex(partyId)] -
       // this.data.nr[this.getDataIndex(partyId)] -
@@ -909,14 +946,25 @@ export class DataService {
 
   getJobData(partyId: number): PartyJobData {
     const item: PartyJobData = {
-      retiree: this.data.dochodci[this.getDataIndex(partyId)],
-      enterpreneur: this.data.zivnostnici[this.getDataIndex(partyId)],
-      unemploee: this.data.nezamestnani[this.getDataIndex(partyId)],
-      other:
+      retiree: this.percentagePipe.transform(
+        this.data.dochodci[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      enterpreneur: this.percentagePipe.transform(
+        this.data.zivnostnici[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      unemploee: this.percentagePipe.transform(
+        this.data.nezamestnani[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      ),
+      other: this.percentagePipe.transform(
         this.data.kandidati[this.getDataIndex(partyId)] -
-        this.data.dochodci[this.getDataIndex(partyId)] -
-        this.data.zivnostnici[this.getDataIndex(partyId)] -
-        this.data.nezamestnani[this.getDataIndex(partyId)]
+          this.data.dochodci[this.getDataIndex(partyId)] -
+          this.data.zivnostnici[this.getDataIndex(partyId)] -
+          this.data.nezamestnani[this.getDataIndex(partyId)],
+        this.data.kandidati[this.getDataIndex(partyId)]
+      )
     };
 
     return item;

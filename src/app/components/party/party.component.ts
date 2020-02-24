@@ -46,6 +46,12 @@ export class PartyComponent implements OnInit, OnChanges {
       title: {
         text: "Vekové zastúpenie kandidátov"
       },
+      axisY: {
+        title: "% zo všetkých kandidátov"
+      },
+      toolTip: {
+        content: "{y} %"
+      },
       data: [
         {
           type: "column",
@@ -68,7 +74,9 @@ export class PartyComponent implements OnInit, OnChanges {
       },
       data: [
         {
-          type: "column",
+          type: "pie",
+          yValueFormatString: '##0.00"%"',
+          indexLabel: "{label} {y}",
           dataPoints: [
             { y: this.educationData.grade_1, label: "Bc." },
             { y: this.educationData.grade_2, label: "2. stupeň VŠ" },
@@ -84,14 +92,19 @@ export class PartyComponent implements OnInit, OnChanges {
       title: {
         text: "Zamestnanie kandidátov"
       },
+      axisY: {
+        title: "% zo všetkých kandidátov"
+      },
+      toolTip: {
+        content: "{y} %"
+      },
       data: [
         {
           type: "column",
           dataPoints: [
             { y: this.jobData.enterpreneur, label: "Podnikatelia" },
             { y: this.jobData.retiree, label: "Dôchodci" },
-            { y: this.jobData.unemploee, label: "Nezamestnaní" },
-            { y: this.jobData.other, label: "Iné" }
+            { y: this.jobData.unemploee, label: "Nezamestnaní" }
           ]
         }
       ]
@@ -104,7 +117,9 @@ export class PartyComponent implements OnInit, OnChanges {
       },
       data: [
         {
-          type: "column",
+          type: "pie",
+          yValueFormatString: '##0.00"%"',
+          indexLabel: "{label} {y}",
           dataPoints: [
             { y: this.geoData.ba, label: "Bratislava" },
             // { y: this.geoData.ke, label: "Košice" },

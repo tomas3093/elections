@@ -85,11 +85,44 @@ export class ComparisonComponent implements OnInit {
       ]
     });
 
+    function toggleDataSeriesAgeChart(e) {
+      if (typeof e.dataSeries.visible === "undefined" || e.dataSeries.visible) {
+        e.dataSeries.visible = false;
+      } else {
+        e.dataSeries.visible = true;
+      }
+      ageChart.render();
+    }
+
+    function toggleDataSeriesEducationChart(e) {
+      if (typeof e.dataSeries.visible === "undefined" || e.dataSeries.visible) {
+        e.dataSeries.visible = false;
+      } else {
+        e.dataSeries.visible = true;
+      }
+      educationChart.render();
+    }
+
+    function toggleDataSeriesJobChart(e) {
+      if (typeof e.dataSeries.visible === "undefined" || e.dataSeries.visible) {
+        e.dataSeries.visible = false;
+      } else {
+        e.dataSeries.visible = true;
+      }
+      jobChart.render();
+    }
+
     const ageChart = new CanvasJS.Chart("chart-age", {
       animationEnabled: true,
       title: {
         text: "Vekové zastúpenie kandidátov strán"
       },
+      subtitles: [
+        {
+          text: "Filtrovanie klikom na kategóriu",
+          fontSize: 16
+        }
+      ],
       axisX: {
         interval: 1
       },
@@ -97,12 +130,12 @@ export class ComparisonComponent implements OnInit {
         title: "% zo všetkých kandidátov"
       },
       legend: {
-        cursor: "pointer"
-        // itemclick: toggleDataSeries
+        cursor: "pointer",
+        itemclick: toggleDataSeriesAgeChart
       },
       toolTip: {
-        shared: false
-        // content: toolTipFormatter
+        shared: false,
+        content: "{label} - <b>Vek {name}</b>: {y} %"
       },
       data: [
         {
@@ -407,6 +440,12 @@ export class ComparisonComponent implements OnInit {
       title: {
         text: "Najvyššie dosiahnuté vzdelanie kandidátov strán"
       },
+      subtitles: [
+        {
+          text: "Filtrovanie klikom na kategóriu",
+          fontSize: 16
+        }
+      ],
       axisX: {
         interval: 1
       },
@@ -414,12 +453,12 @@ export class ComparisonComponent implements OnInit {
         title: "% zo všetkých kandidátov"
       },
       legend: {
-        cursor: "pointer"
-        // itemclick: toggleDataSeries
+        cursor: "pointer",
+        itemclick: toggleDataSeriesEducationChart
       },
       toolTip: {
-        shared: false
-        // content: toolTipFormatter
+        shared: false,
+        content: "{label} - {name}: {y} %"
       },
       data: [
         {
@@ -666,6 +705,12 @@ export class ComparisonComponent implements OnInit {
       title: {
         text: "Zamestnanie kandidátov strán"
       },
+      subtitles: [
+        {
+          text: "Filtrovanie klikom na kategóriu",
+          fontSize: 16
+        }
+      ],
       axisX: {
         interval: 1
       },
@@ -673,12 +718,12 @@ export class ComparisonComponent implements OnInit {
         title: "% zo všetkých kandidátov"
       },
       legend: {
-        cursor: "pointer"
-        // itemclick: toggleDataSeries
+        cursor: "pointer",
+        itemclick: toggleDataSeriesJobChart
       },
       toolTip: {
-        shared: false
-        // content: toolTipFormatter
+        shared: false,
+        content: "{label} - {name}: {y} %"
       },
       data: [
         {
@@ -857,65 +902,6 @@ export class ComparisonComponent implements OnInit {
               label: partyName(TopParty.ZA_LUDI)
             }
           ]
-        },
-        {
-          type: "bar",
-          showInLegend: true,
-          name: "Iné",
-          dataPoints: [
-            {
-              y: this.jobData.DOBRA_VOLBA.other,
-              label: partyName(TopParty.DOBRA_VOLBA)
-            },
-            {
-              y: this.jobData.KDH.other,
-              label: partyName(TopParty.KDH)
-            },
-            {
-              y: this.jobData.LSNS.other,
-              label: partyName(TopParty.LSNS)
-            },
-            {
-              y: this.jobData.MKO_MKS.other,
-              label: partyName(TopParty.MKO_MKS)
-            },
-            {
-              y: this.jobData.MOST_HID.other,
-              label: partyName(TopParty.MOST_HID)
-            },
-            {
-              y: this.jobData.OLANO.other,
-              label: partyName(TopParty.OLANO)
-            },
-            {
-              y: this.jobData.PS_SPOLU.other,
-              label: partyName(TopParty.PS_SPOLU)
-            },
-            {
-              y: this.jobData.SAS.other,
-              label: partyName(TopParty.SAS)
-            },
-            {
-              y: this.jobData.SMER.other,
-              label: partyName(TopParty.SMER)
-            },
-            {
-              y: this.jobData.SME_RODINA.other,
-              label: partyName(TopParty.SME_RODINA)
-            },
-            {
-              y: this.jobData.SNS.other,
-              label: partyName(TopParty.SNS)
-            },
-            {
-              y: this.jobData.VLAST.other,
-              label: partyName(TopParty.VLAST)
-            },
-            {
-              y: this.jobData.ZA_LUDI.other,
-              label: partyName(TopParty.ZA_LUDI)
-            }
-          ]
         }
       ]
     });
@@ -936,8 +922,8 @@ export class ComparisonComponent implements OnInit {
         // itemclick: toggleDataSeries
       },
       toolTip: {
-        shared: false
-        // content: toolTipFormatter
+        shared: false,
+        content: "{name}: {y} %"
       },
       data: [
         {

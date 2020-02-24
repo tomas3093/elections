@@ -7,6 +7,7 @@ import { ComparisonComponent } from './components/comparison/comparison.componen
 import { OverviewComponent } from './components/overview/overview.component';
 import { PageComponent } from './components/page/page.component';
 import { PartyComponent } from './components/party/party.component';
+import { TwoDigitPercentagePipe } from './pipes/two-digit-percentage.pipe';
 import { TwoDigitPipe } from './pipes/two-digit.pipe';
 import { DataService } from './services/data.service';
 
@@ -18,10 +19,11 @@ import { DataService } from './services/data.service';
     OverviewComponent,
     AboutComponent,
     ComparisonComponent,
-    TwoDigitPipe
+    TwoDigitPipe,
+    TwoDigitPercentagePipe
   ],
   imports: [BrowserModule],
-  providers: [DataService],
+  providers: [DataService, TwoDigitPercentagePipe],
   bootstrap: [AppComponent]
 })
 export class AppModule {}
