@@ -45,6 +45,10 @@ export class ComparisonComponent implements OnInit {
         minimum: 35,
         maximum: 50
       },
+      toolTip: {
+        shared: false,
+        content: "{label} - {y} rokov"
+      },
       data: [
         {
           type: "column",

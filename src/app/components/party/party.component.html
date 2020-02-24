@@ -1,21 +1,24 @@
 <div class="header">
   <div class="navigation-bar">
-    <div class="arrow left" (click)="navLeft.emit()"><<<<<-</div>
-    <div class="arrow right" (click)="navRight.emit()">->>>>></div>
-    <div class="clear"></div>
-  </div>
-  <div class="logo logo{{ party.id }}"></div>
-  <div class="text-box">
-    <div>{{ party.id }}. {{ party.name }}</div>
-    <div>Počet kandidátov: {{ party.candidates }}</div>
-    <div>
-      <a
-        href="http://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/NR20_{{
-          party.id | twoDigit
-        }}.pdf"
-        >Zobraziť zoznam kandidátov</a
-      >
+    <div class="arrow" (click)="navLeft.emit()">
+      <- Predchádzajúca
     </div>
+    <div class="arrow" (click)="navRight.emit()">
+      Nasledujúca ->
+    </div>
+  </div>
+</div>
+<div class="logo logo{{ party.id }}"></div>
+<div class="text-box">
+  <div class="name">{{ party.id }}. {{ party.name }}</div>
+  <div class="candidates">Počet kandidátov: {{ party.candidates }}</div>
+  <div>
+    <a
+      href="http://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/100_nr_sr/nr20_3kandidati/NR20_{{
+        party.id | twoDigit
+      }}.pdf"
+      >Zobraziť zoznam kandidátov</a
+    >
   </div>
 </div>
 

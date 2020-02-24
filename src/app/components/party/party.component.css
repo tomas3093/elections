@@ -1,18 +1,25 @@
+.navigation-bar {
+  padding-bottom: 28px;
+}
+
 .arrow {
   text-align: center;
-  width: 250px;
+  display: inline-block;
+  width: 150px;
+  padding: 8px;
   font-weight: 800;
   cursor: pointer;
   color: #ffffff;
   background-color: rgba(0, 0, 0, 0.719);
+  border-radius: 6px;
 }
 
-.arrow.left {
-  float: left;
+.arrow:first-of-type {
+  margin-right: 16px;
 }
 
-.arrow.right {
-  float: right;
+.arrow:hover {
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .logo {
@@ -27,6 +34,14 @@
 
 .text-box {
   display: inline-block;
+  padding: 0 16px;
+  text-align: left;
+}
+
+.name {
+  font-size: 25px;
+  padding-bottom: 8px;
+  font-weight: 600;
 }
 
 a:hover {
@@ -34,13 +49,18 @@ a:hover {
   text-decoration: underline;
 }
 
+.graphs {
+  padding: 28px 16px 16px 16px;
+}
+
 .chart {
   width: 50%;
   height: 450px;
   display: inline-block;
+  padding: 16px 0;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 850px) {
   .chart {
     width: 100%;
     display: block;

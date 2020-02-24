@@ -23,30 +23,33 @@
   </div>
 </div>
 
-<div class="max-width">
-  <app-overview
-    *ngIf="isOverview"
-    (itemClicked)="showParty($event)"
-  ></app-overview>
+<div class="content">
+  <div class="max-width">
+    <app-overview
+      *ngIf="isOverview"
+      (itemClicked)="showParty($event)"
+    ></app-overview>
 
-  <app-party
-    *ngIf="isParty"
-    [partyId]="showedParty"
-    (navLeft)="showNextParty(true)"
-    (navRight)="showNextParty(false)"
-  ></app-party>
+    <app-party
+      *ngIf="isParty"
+      [partyId]="showedParty"
+      (navLeft)="showNextParty(true)"
+      (navRight)="showNextParty(false)"
+    ></app-party>
 
-  <app-comparison *ngIf="isComparison"></app-comparison>
+    <app-comparison *ngIf="isComparison"></app-comparison>
 
-  <app-about *ngIf="isAbout"></app-about>
+    <app-about *ngIf="isAbout"></app-about>
+  </div>
 </div>
 
 <div class="footer">
-  <div class="max-width">
+  <div class="max-width text">
     Všetky dáta sú získané analýzou verejne dostupných kandidátnych listín
     jednotlivých politických subjektov, zverejnených na
     <a href="http://www.minv.sk/?volby-nrsr"
       >webstránke Ministerstva vnútra SR</a
     >.
   </div>
+  <div>Created by Tomáš Blázy | &copy; 2020</div>
 </div>

@@ -6,6 +6,8 @@
 
 .party {
   display: inline-block;
+  vertical-align: middle;
+  text-align: left;
   padding: 8px;
   width: 400px;
   min-height: 105px;
@@ -21,7 +23,7 @@
   cursor: pointer;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 850px) {
   .party {
     width: 100%;
     display: block;
@@ -34,14 +36,14 @@
   background-size: contain;
   display: inline-block;
   vertical-align: middle;
-  width: 50px;
-  height: 50px;
+  width: 65px;
+  height: 65px;
 }
 
 .text-box {
   margin-left: 21px;
   display: inline-block;
-  width: calc(100% - 75px);
+  width: calc(100% - 90px);
 }
 
 a:hover {
