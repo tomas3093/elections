@@ -41,6 +41,10 @@ export class ComparisonComponent implements OnInit {
         interval: 1,
         labelAngle: 145
       },
+      axisY: {
+        minimum: 35,
+        maximum: 50
+      },
       data: [
         {
           type: "column",
@@ -937,7 +941,7 @@ export class ComparisonComponent implements OnInit {
       },
       data: [
         {
-          type: "bar",
+          type: "stackedBar",
           showInLegend: true,
           name: "Bratislava",
           dataPoints: [
@@ -996,7 +1000,7 @@ export class ComparisonComponent implements OnInit {
           ]
         },
         {
-          type: "bar",
+          type: "stackedBar",
           showInLegend: true,
           name: "Iné",
           dataPoints: [
