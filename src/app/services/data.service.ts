@@ -1,5 +1,10 @@
 import { Injectable } from '@angular/core';
 
+import { TopParty } from '../enums/top-party.enum';
+import { PartiesAge } from '../interfaces/parties-age';
+import { PartiesEducation } from '../interfaces/parties-education';
+import { PartiesGeo } from '../interfaces/parties-geo';
+import { PartiesJob } from '../interfaces/parties-job';
 import { PartyAgeData } from '../interfaces/party-age-data';
 import { PartyEducationData } from '../interfaces/party-education-data';
 import { PartyGeoData } from '../interfaces/party-geo-data';
@@ -773,6 +778,39 @@ export class DataService {
     return this.data.cislo_listiny.indexOf(partyId);
   }
 
+  private getPartyId(code: TopParty): number {
+    switch (code) {
+      case TopParty.SMER:
+        return 19;
+      case TopParty.OLANO:
+        return 11;
+      case TopParty.LSNS:
+        return 24;
+      case TopParty.PS_SPOLU:
+        return 12;
+      case TopParty.ZA_LUDI:
+        return 6;
+      case TopParty.SME_RODINA:
+        return 4;
+      case TopParty.SAS:
+        return 3;
+      case TopParty.KDH:
+        return 15;
+      case TopParty.MOST_HID:
+        return 18;
+      case TopParty.DOBRA_VOLBA:
+        return 2;
+      case TopParty.SNS:
+        return 9;
+      case TopParty.VLAST:
+        return 17;
+      case TopParty.MKO_MKS:
+        return 22;
+      default:
+        return -1;
+    }
+  }
+
   getPartyName(partyId: number): string {
     return this.data.nazov_strany[this.getDataIndex(partyId)];
   }
@@ -841,29 +879,29 @@ export class DataService {
   getGeoData(partyId: number): PartyGeoData {
     const item: PartyGeoData = {
       ba: this.data.ba[this.getDataIndex(partyId)],
-      ke: this.data.ke[this.getDataIndex(partyId)],
-      po: this.data.po[this.getDataIndex(partyId)],
-      nr: this.data.nr[this.getDataIndex(partyId)],
-      za: this.data.za[this.getDataIndex(partyId)],
-      bb: this.data.bb[this.getDataIndex(partyId)],
-      tt: this.data.tt[this.getDataIndex(partyId)],
-      mt: this.data.mt[this.getDataIndex(partyId)],
-      tr: this.data.tr[this.getDataIndex(partyId)],
-      pp: this.data.pp[this.getDataIndex(partyId)],
-      pn: this.data.pn[this.getDataIndex(partyId)],
+      // ke: this.data.ke[this.getDataIndex(partyId)],
+      // po: this.data.po[this.getDataIndex(partyId)],
+      // nr: this.data.nr[this.getDataIndex(partyId)],
+      // za: this.data.za[this.getDataIndex(partyId)],
+      // bb: this.data.bb[this.getDataIndex(partyId)],
+      // tt: this.data.tt[this.getDataIndex(partyId)],
+      // mt: this.data.mt[this.getDataIndex(partyId)],
+      // tr: this.data.tr[this.getDataIndex(partyId)],
+      // pp: this.data.pp[this.getDataIndex(partyId)],
+      // pn: this.data.pn[this.getDataIndex(partyId)],
       other:
         this.data.kandidati[this.getDataIndex(partyId)] -
-        this.data.ba[this.getDataIndex(partyId)] -
-        this.data.ke[this.getDataIndex(partyId)] -
-        this.data.po[this.getDataIndex(partyId)] -
-        this.data.nr[this.getDataIndex(partyId)] -
-        this.data.za[this.getDataIndex(partyId)] -
-        this.data.bb[this.getDataIndex(partyId)] -
-        this.data.tt[this.getDataIndex(partyId)] -
-        this.data.mt[this.getDataIndex(partyId)] -
-        this.data.tr[this.getDataIndex(partyId)] -
-        this.data.pp[this.getDataIndex(partyId)] -
-        this.data.pn[this.getDataIndex(partyId)]
+        this.data.ba[this.getDataIndex(partyId)]
+      // this.data.ke[this.getDataIndex(partyId)] -
+      // this.data.po[this.getDataIndex(partyId)] -
+      // this.data.nr[this.getDataIndex(partyId)] -
+      // this.data.za[this.getDataIndex(partyId)] -
+      // this.data.bb[this.getDataIndex(partyId)] -
+      // this.data.tt[this.getDataIndex(partyId)] -
+      // this.data.mt[this.getDataIndex(partyId)] -
+      // this.data.tr[this.getDataIndex(partyId)] -
+      // this.data.pp[this.getDataIndex(partyId)] -
+      // this.data.pn[this.getDataIndex(partyId)]
     };
 
     return item;
@@ -879,6 +917,86 @@ export class DataService {
         this.data.dochodci[this.getDataIndex(partyId)] -
         this.data.zivnostnici[this.getDataIndex(partyId)] -
         this.data.nezamestnani[this.getDataIndex(partyId)]
+    };
+
+    return item;
+  }
+
+  getPartiesAgeData(): PartiesAge {
+    const item: PartiesAge = {
+      DOBRA_VOLBA: this.getAgeData(this.getPartyId(TopParty.DOBRA_VOLBA)),
+      KDH: this.getAgeData(this.getPartyId(TopParty.KDH)),
+      LSNS: this.getAgeData(this.getPartyId(TopParty.LSNS)),
+      MKO_MKS: this.getAgeData(this.getPartyId(TopParty.MKO_MKS)),
+      MOST_HID: this.getAgeData(this.getPartyId(TopParty.MOST_HID)),
+      OLANO: this.getAgeData(this.getPartyId(TopParty.OLANO)),
+      PS_SPOLU: this.getAgeData(this.getPartyId(TopParty.PS_SPOLU)),
+      SAS: this.getAgeData(this.getPartyId(TopParty.SAS)),
+      SMER: this.getAgeData(this.getPartyId(TopParty.SMER)),
+      SME_RODINA: this.getAgeData(this.getPartyId(TopParty.SME_RODINA)),
+      SNS: this.getAgeData(this.getPartyId(TopParty.SNS)),
+      VLAST: this.getAgeData(this.getPartyId(TopParty.VLAST)),
+      ZA_LUDI: this.getAgeData(this.getPartyId(TopParty.ZA_LUDI))
+    };
+
+    return item;
+  }
+
+  getPartiesJobData(): PartiesJob {
+    const item: PartiesJob = {
+      DOBRA_VOLBA: this.getJobData(this.getPartyId(TopParty.DOBRA_VOLBA)),
+      KDH: this.getJobData(this.getPartyId(TopParty.KDH)),
+      LSNS: this.getJobData(this.getPartyId(TopParty.LSNS)),
+      MKO_MKS: this.getJobData(this.getPartyId(TopParty.MKO_MKS)),
+      MOST_HID: this.getJobData(this.getPartyId(TopParty.MOST_HID)),
+      OLANO: this.getJobData(this.getPartyId(TopParty.OLANO)),
+      PS_SPOLU: this.getJobData(this.getPartyId(TopParty.PS_SPOLU)),
+      SAS: this.getJobData(this.getPartyId(TopParty.SAS)),
+      SMER: this.getJobData(this.getPartyId(TopParty.SMER)),
+      SME_RODINA: this.getJobData(this.getPartyId(TopParty.SME_RODINA)),
+      SNS: this.getJobData(this.getPartyId(TopParty.SNS)),
+      VLAST: this.getJobData(this.getPartyId(TopParty.VLAST)),
+      ZA_LUDI: this.getJobData(this.getPartyId(TopParty.ZA_LUDI))
+    };
+
+    return item;
+  }
+
+  getPartiesEducationData(): PartiesEducation {
+    const item: PartiesEducation = {
+      DOBRA_VOLBA: this.getEducationData(this.getPartyId(TopParty.DOBRA_VOLBA)),
+      KDH: this.getEducationData(this.getPartyId(TopParty.KDH)),
+      LSNS: this.getEducationData(this.getPartyId(TopParty.LSNS)),
+      MKO_MKS: this.getEducationData(this.getPartyId(TopParty.MKO_MKS)),
+      MOST_HID: this.getEducationData(this.getPartyId(TopParty.MOST_HID)),
+      OLANO: this.getEducationData(this.getPartyId(TopParty.OLANO)),
+      PS_SPOLU: this.getEducationData(this.getPartyId(TopParty.PS_SPOLU)),
+      SAS: this.getEducationData(this.getPartyId(TopParty.SAS)),
+      SMER: this.getEducationData(this.getPartyId(TopParty.SMER)),
+      SME_RODINA: this.getEducationData(this.getPartyId(TopParty.SME_RODINA)),
+      SNS: this.getEducationData(this.getPartyId(TopParty.SNS)),
+      VLAST: this.getEducationData(this.getPartyId(TopParty.VLAST)),
+      ZA_LUDI: this.getEducationData(this.getPartyId(TopParty.ZA_LUDI))
+    };
+
+    return item;
+  }
+
+  getPartiesGeoData(): PartiesGeo {
+    const item: PartiesGeo = {
+      DOBRA_VOLBA: this.getGeoData(this.getPartyId(TopParty.DOBRA_VOLBA)),
+      KDH: this.getGeoData(this.getPartyId(TopParty.KDH)),
+      LSNS: this.getGeoData(this.getPartyId(TopParty.LSNS)),
+      MKO_MKS: this.getGeoData(this.getPartyId(TopParty.MKO_MKS)),
+      MOST_HID: this.getGeoData(this.getPartyId(TopParty.MOST_HID)),
+      OLANO: this.getGeoData(this.getPartyId(TopParty.OLANO)),
+      PS_SPOLU: this.getGeoData(this.getPartyId(TopParty.PS_SPOLU)),
+      SAS: this.getGeoData(this.getPartyId(TopParty.SAS)),
+      SMER: this.getGeoData(this.getPartyId(TopParty.SMER)),
+      SME_RODINA: this.getGeoData(this.getPartyId(TopParty.SME_RODINA)),
+      SNS: this.getGeoData(this.getPartyId(TopParty.SNS)),
+      VLAST: this.getGeoData(this.getPartyId(TopParty.VLAST)),
+      ZA_LUDI: this.getGeoData(this.getPartyId(TopParty.ZA_LUDI))
     };
 
     return item;

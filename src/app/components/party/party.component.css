@@ -34,30 +34,15 @@ a:hover {
   text-decoration: underline;
 }
 
-.graphs {
-  width: 100%;
-}
-
 .chart {
   width: 50%;
   height: 450px;
   display: inline-block;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
   .chart {
     width: 100%;
     display: block;
   }
-}
-
-#chart-age {
-  /* padding-bottom: 500px; */
-}
-
-#chart-education {
-}
-
-.canvasjs-chart-canvas {
-  position: static;
 }

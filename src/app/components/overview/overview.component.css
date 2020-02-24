@@ -1,7 +1,4 @@
 .header {
-  display: inline-block;
-  vertical-align: middle;
-  height: 100%;
   font-size: 24px;
   font-weight: bold;
   padding-bottom: 24px;
@@ -24,7 +21,7 @@
   cursor: pointer;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
   .party {
     width: 100%;
     display: block;

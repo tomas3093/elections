@@ -50,7 +50,7 @@ export class PartyComponent implements OnInit, OnChanges {
         {
           type: "column",
           dataPoints: [
-            { y: this.ageData.age_below_25, label: "> 25" },
+            { y: this.ageData.age_below_25, label: "< 25" },
             { y: this.ageData.age_25_35, label: "25 - 35" },
             { y: this.ageData.age_35_45, label: "35 - 45" },
             { y: this.ageData.age_45_55, label: "45 - 55" },
@@ -100,24 +100,24 @@ export class PartyComponent implements OnInit, OnChanges {
     const geoChart = new CanvasJS.Chart("chart-geo", {
       animationEnabled: true,
       title: {
-        text: "Bydlisko kandidátov"
+        text: "Trvalé bydlisko kandidátov"
       },
       data: [
         {
           type: "column",
           dataPoints: [
             { y: this.geoData.ba, label: "Bratislava" },
-            { y: this.geoData.ke, label: "Košice" },
-            { y: this.geoData.po, label: "Prešov" },
-            { y: this.geoData.nr, label: "Nitra" },
-            { y: this.geoData.za, label: "Žilina" },
-            { y: this.geoData.bb, label: "Banská Bystrica" },
-            { y: this.geoData.tt, label: "Trnava" },
-            { y: this.geoData.mt, label: "Martin" },
-            { y: this.geoData.tr, label: "Trenčín" },
-            { y: this.geoData.pp, label: "Poprad" },
-            { y: this.geoData.pn, label: "Piešťany" }
-            // { y: this.geoData.other, label: "Iná obec" }
+            // { y: this.geoData.ke, label: "Košice" },
+            // { y: this.geoData.po, label: "Prešov" },
+            // { y: this.geoData.nr, label: "Nitra" },
+            // { y: this.geoData.za, label: "Žilina" },
+            // { y: this.geoData.bb, label: "Banská Bystrica" },
+            // { y: this.geoData.tt, label: "Trnava" },
+            // { y: this.geoData.mt, label: "Martin" },
+            // { y: this.geoData.tr, label: "Trenčín" },
+            // { y: this.geoData.pp, label: "Poprad" },
+            // { y: this.geoData.pn, label: "Piešťany" }
+            { y: this.geoData.other, label: "Iné" }
           ]
         }
       ]

@@ -4,7 +4,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { AboutComponent } from './components/about/about.component';
 import { ComparisonComponent } from './components/comparison/comparison.component';
-import { GraphBoxComponent } from './components/graph-box/graph-box.component';
 import { OverviewComponent } from './components/overview/overview.component';
 import { PageComponent } from './components/page/page.component';
 import { PartyComponent } from './components/party/party.component';
@@ -17,7 +16,6 @@ import { DataService } from './services/data.service';
     PageComponent,
     PartyComponent,
     OverviewComponent,
-    GraphBoxComponent,
     AboutComponent,
     ComparisonComponent,
     TwoDigitPipe

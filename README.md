@@ -29,4 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Github pages upload
 
 ng build --prod --base-href 'elections'
+
 sudo ngh --dir dist/elections --no-silent
