@@ -80,11 +80,13 @@ export class PartyComponent implements OnInit, OnChanges {
           type: "pie",
           yValueFormatString: '##0.00"%"',
           indexLabel: "{label} {y}",
+          indexLabelFontColor: "#FFFFFF",
+          indexLabelPlacement: "inside",
           dataPoints: [
             { y: this.educationData.grade_1, label: "Bc." },
             { y: this.educationData.grade_2, label: "2. stupeň VŠ" },
             { y: this.educationData.grade_3, label: "3. stupeň VŠ" },
-            { y: this.educationData.no_grade, label: "Bez VŠ vzdelania" }
+            { y: this.educationData.no_grade, label: "Bez VŠ" }
           ]
         }
       ]
