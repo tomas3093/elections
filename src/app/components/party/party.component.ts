@@ -126,6 +126,8 @@ export class PartyComponent implements OnInit, OnChanges {
           type: "pie",
           yValueFormatString: '##0.00"%"',
           indexLabel: "{label} {y}",
+          indexLabelFontColor: "#FFFFFF",
+          indexLabelPlacement: "inside",
           dataPoints: [
             { y: this.geoData.ba, label: "Bratislava" },
             // { y: this.geoData.ke, label: "Košice" },
