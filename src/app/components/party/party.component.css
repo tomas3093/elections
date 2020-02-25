@@ -5,8 +5,8 @@
 .arrow {
   text-align: center;
   display: inline-block;
-  width: 150px;
-  padding: 8px;
+  width: 115px;
+  padding: 4px;
   font-weight: 800;
   cursor: pointer;
   color: #ffffff;
@@ -15,7 +15,7 @@
 }
 
 .arrow:first-of-type {
-  margin-right: 16px;
+  margin-right: 8px;
 }
 
 .arrow:hover {
@@ -34,7 +34,7 @@
 
 .text-box {
   display: inline-block;
-  padding: 0 16px;
+  padding: 0 16px 0 24px;
   text-align: left;
 }
 
@@ -42,6 +42,11 @@
   font-size: 25px;
   padding-bottom: 8px;
   font-weight: 600;
+}
+
+a {
+  text-decoration: underline;
+  color: rgba(0, 0, 255, 0.479);
 }
 
 a:hover {
@@ -58,6 +63,7 @@ a:hover {
   height: 450px;
   display: inline-block;
   padding: 16px 0;
+  margin-bottom: 70px;
 }
 
 @media only screen and (max-width: 850px) {

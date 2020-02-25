@@ -44,10 +44,12 @@ export class PartyComponent implements OnInit, OnChanges {
     const ageChart = new CanvasJS.Chart("chart-age", {
       animationEnabled: true,
       title: {
-        text: "Vekové zastúpenie kandidátov"
+        text: "Vekové zastúpenie kandidátov",
+        fontSize: 28
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18
       },
       toolTip: {
         content: "{y} %"
@@ -70,7 +72,8 @@ export class PartyComponent implements OnInit, OnChanges {
     const educationChart = new CanvasJS.Chart("chart-education", {
       animationEnabled: true,
       title: {
-        text: "Najvyššie dosiahnuté vzdelanie kandidátov"
+        text: "Najvyššie dosiahnuté vzdelanie kandidátov",
+        fontSize: 28
       },
       data: [
         {
@@ -90,10 +93,12 @@ export class PartyComponent implements OnInit, OnChanges {
     const jobChart = new CanvasJS.Chart("chart-job", {
       animationEnabled: true,
       title: {
-        text: "Zamestnanie kandidátov"
+        text: "Zamestnanie kandidátov",
+        fontSize: 28
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18
       },
       toolTip: {
         content: "{y} %"
@@ -113,7 +118,8 @@ export class PartyComponent implements OnInit, OnChanges {
     const geoChart = new CanvasJS.Chart("chart-geo", {
       animationEnabled: true,
       title: {
-        text: "Trvalé bydlisko kandidátov"
+        text: "Trvalé bydlisko kandidátov",
+        fontSize: 28
       },
       data: [
         {

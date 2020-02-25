@@ -68,6 +68,13 @@
   margin-right: 0;
 }
 
+@media only screen and (max-width: 650px) {
+  .menu-item {
+    display: block;
+    margin-right: 0;
+  }
+}
+
 .content {
   padding: 24px 16px;
   text-align: center;

@@ -119,7 +119,8 @@ export class ComparisonComponent implements OnInit {
     const ageChart = new CanvasJS.Chart("chart-age", {
       animationEnabled: true,
       title: {
-        text: "Vekové zastúpenie kandidátov strán"
+        text: "Vekové zastúpenie kandidátov strán",
+        fontSize: 28
       },
       subtitles: [
         {
@@ -131,7 +132,8 @@ export class ComparisonComponent implements OnInit {
         interval: 1
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18
       },
       legend: {
         cursor: "pointer",
@@ -442,7 +444,8 @@ export class ComparisonComponent implements OnInit {
     const educationChart = new CanvasJS.Chart("chart-education", {
       animationEnabled: true,
       title: {
-        text: "Najvyššie dosiahnuté vzdelanie kandidátov strán"
+        text: "Najvyššie dosiahnuté vzdelanie kandidátov strán",
+        fontSize: 28
       },
       subtitles: [
         {
@@ -454,7 +457,8 @@ export class ComparisonComponent implements OnInit {
         interval: 1
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18
       },
       legend: {
         cursor: "pointer",
@@ -707,7 +711,8 @@ export class ComparisonComponent implements OnInit {
     const jobChart = new CanvasJS.Chart("chart-job", {
       animationEnabled: true,
       title: {
-        text: "Zamestnanie kandidátov strán"
+        text: "Zamestnanie kandidátov strán",
+        fontSize: 28
       },
       subtitles: [
         {
@@ -719,7 +724,8 @@ export class ComparisonComponent implements OnInit {
         interval: 1
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18
       },
       legend: {
         cursor: "pointer",
@@ -913,13 +919,16 @@ export class ComparisonComponent implements OnInit {
     const geoChart = new CanvasJS.Chart("chart-geo", {
       animationEnabled: true,
       title: {
-        text: "Trvalé bydlisko kandidátov strán"
+        text: "Trvalé bydlisko kandidátov strán",
+        fontSize: 28
       },
       axisX: {
         interval: 1
       },
       axisY: {
-        title: "% zo všetkých kandidátov"
+        title: "% zo všetkých kandidátov",
+        titleFontSize: 18,
+        maximum: 100
       },
       legend: {
         cursor: "pointer"
