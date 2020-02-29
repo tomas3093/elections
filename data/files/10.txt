@@ -1,0 +1,154 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 10
+Názov politickej strany: Demokratická strana
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Jozef Rajtár, Dip Mgmt, 43 r., poslanec parlamentu, Bratislava
+2. Michal Kravčík, Ing., CSc., 64 r., environmentalista, Košice
+3. Natália Blahová, Mgr., 46 r., sociálna poradkyňa, Zavar
+4. Ľubomír Galko, Mgr., 52 r., poslanec parlamentu, Stupava
+5. Miroslav Ivan, Ing., 53 r., poslanec parlamentu, Banská Bystrica
+6. Michal Bucek, MUDr., 65 r., lekár, Bratislava
+7. Stanislav Rajnoha, Mgr., 65 r., historik umenia, Banská Bystrica
+8. Lukáš Ranik, Ing., 31 r., viceprimátor mesta, Púchov
+9. Stanislava Bytčanek, Ing., 43 r., manažérka, konateľka, Žilina
+10. Oto Šátek, 53 r., podnikateľ, Tomášov
+11. Renáta Kaščáková, Mgr., 54 r., poslankyňa parlamentu, Trenčín
+12. Adam Hochel, MUDr., PhD., MPH, 48 r., detský chirurg, Bratislava
+13. Jakub Nedoba, Mgr., 31 r., poslanec parlamentu, Bratislava
+14. Štefan Pecen, Ing., 68 r., tlmočník a prekladateľ, Bratislava
+15. Vladimír Sloboda, Ing., 40 r., poslanec parlamentu, Bratislava
+16. Radoslav Pavelka, Mgr., 46 r., poslanec parlamentu, Nitra
+17. Ivo Nemčič, Ing., 54 r., podnikateľ v oblasti elektroniky, Bratislava
+18. Iveta Fulková, MUDr., 50 r., lekárka, Spišská Nová Ves
+19. Ondrej Janíček, MBA, 54 r., prokurista, Trenčín
+20. Pavol Kubiš, 55 r., technik, Bratislava
+21. Milan Vrabeľ, Ing., 35 r., IT systémový inžinier, Raslavice
+22. Pavol Líška, Ing., 47 r., manažér, Myjava
+23. Selim Hikmet, Mgr., 42 r., podnikateľ - SHR, Bratislava
+24. Dušan Katuščák, prof. PhDr., PhD., 74 r., univerzitný profesor, Jazernica
+25. Pavol Bottka, 52 r., živnostník, Iža
+26. Pavol Varga, JUDr., 70 r., novinár, Marianka
+27. Dušan Rolín, Ing., 69 r., odborný konzultant, Hronsek
+28. Drahomír Krčmárek, Ing., 54 r., stredoškolský učiteľ, Liptovský Ondrej
+29. Ondrej Kvasnica, Ing., PhD., 36 r., kybernetik, ekonóm a pedagóg, Trenčín
+30. Martina Ertel Hajduchová, Bc., 40 r., grafická dizajnérka, Prievidza
+31. Július Kovács, RNDr., 60 r., geofyzik, Veľký Krtíš
+32. Peter Cvik, Ing. Mgr., 61 r., výsluhový dôchodca, Bánov
+33. Dušan Jaššo, Mgr., 39 r., učiteľ na ZUŠ, Snežnica
+34. Marek Žiačik, Ing., 42 r., ekológ, Banská Bystrica
+35. Ján Cimerman, Ing., 61 r., vedúci odboru informačných systémov, Banská Bystrica
+36. Juraj Hríb, Ing., 26 r., projektant, Zvolen
+37. Miroslav Ertel, 42 r., fotograf, Cigeľ
+38. Martin Čurilla, Ing. arch., 48 r., architekt, Spišské Vlachy
+39. Roman Krištof, 54 r., konateľ firmy, Trenčianske Teplice
+40. Milan Trnovský, JUDr., 64 r., advokát, Liptovský Mikuláš
+41. Robert Bezek, JUDr., MBA, 38 r., súkromný podnikateľ, Rožňavské Bystré
+42. Oľga Beständigová, Mgr., 40 r., krasokorčuliarka, Bratislava
+43. Miroslav Szabados, Ing., 54 r., výsluhový dôchodca, Komárno
+44. Jozef Rybár, Ing., 63 r., dôchodca, Bratislava
+45. Viliam Šlahor, Ing., 55 r., SZČO, Bratislava
+46. Martin Breštenský, Ing., 59 r., SZČO, Bratislava
+47. Peter Šmotlák, Ing., 60 r., SZČO, Bratislava
+48. Pavol Bodor, 40 r., SZČO, Zuberec
+49. Roman Pinke, 36 r., manažér v poľnohospodárstve, Dubník
+50. Kvetoslava Berkyová, 66 r., asistentka osvety zdravia, Rudňany
+51. Matej Skurčák, 36 r., živnostník, Habovka
+52. Roman Krištín, MVDr., 44 r., veterinár, Veľké Kršteňany
+53. Ivan Švajlen, Mgr., 41 r., tlmočník a prekladateľ, učiteľ, Banská Bystrica
+54. Ľudmila Šimková Filipovičová, Mgr., 42 r., učiteľka v špeciálnej materskej škole, Biely Kostol
+55. Anna Menkynová, Mgr., 40 r., sociálna pracovníčka, Brezová pod Bradlom
+56. Richard Baranič, Mgr., 25 r., psychológ, Lokca
+57. Štefan Hrončo, Ing., 42 r., pekár, Dunajská Lužná
+58. Eulalia Štefanová, 63 r., environmentalistka, Zamarovce
+59. Robert Roland, MUDr., 72 r., lekár, Košice
+60. Martin Župa, Ing., 40 r., konateľ, Košice
+61. Robert Krampl, 45 r., IT technik, Bratislava
+62. Katarína Kuchťáková, Mgr., 50 r., sociálna poradkyňa, Lokca
+63. Marcela Ivanová, 43 r., živnostníčka, Veľké Uherce
+64. Darina Rybárová, 40 r., event manažérka, Kanianka
+65. Libuša Jízdná, 40 r., lyžiarska inštruktorka, Košice
+66. Ivona Kollárová, doc. Mgr., PhD., 48 r., vedecká pracovníčka, Bratislava
+67. Milan Beňo, Ing., 74 r., samostatne hospodáriaci roľník, Turany
+68. Anna Schlentcová, Ing., 52 r., ekologička, Košice
+69. Petra Sekulová, Mgr., 43 r., zdravotná sestra, Spišská Nová Ves
+70. Iveta Geletková, Ing., 33 r., starostka obce, Mlynky
+71. Daniela Antalová, Mgr., 56 r., pedagogická zamestnankyňa, zdravotná sestra, Spišská Nová Ves
+72. Milan Kormaník, Ing., 55 r., technický riaditeľ, Liptovský Ján
+73. Štefan Lazorišák, 60 r., spisovateľ, Košice
+74. Jozef Horváth, 71 r., divadelný manažér, Košice
+75. Tibor Kočík, PaedDr., 67 r., spisovateľ a etopéd, Košice
+76. Róbert Jurčák, 56 r., pracovník bezpečnostnej služby, Košice
+77. Juraj Šinka, Ing., 61 r., projektant, konateľ s.r.o., Trenčín
+78. Jozef Hrabina, Ing., 54 r., konateľ spoločnosti, Nitra
+79. Branislav Hronec, 29 r., SZČO, Detva
+80. David Bučko, Mgr., 34 r., podnikateľ, Bratislava
+81. Milan Michalič, Ing., 56 r., predseda poľnohospodárskeho družstva, Poruba pod Vihorlatom
+82. René Kameník, Mgr., 48 r., vedecký pracovník, Košice
+83. Igor Krafčík, Ing., 56 r., obchodný manažér, Košice
+84. Rudolf Sloboda, Ing., 56 r., SZČO, projektový manažér, Bratislava
+85. Ľuboš Šimún, 43 r., živnostník, Likavka
+86. Marek Krupa, Bc., 31 r., podnikateľ, Bohdanovce nad Trnavou
+87. Eva Samolejová, PhDr., MPH., 52 r., referentka verejného obstarávania, Bratislava
+88. Natália Pepuchová, 26 r., SZČO, Bratislava
+89. Igor Hornák, Ing., CSc., 56 r., manažér, Bratislava
+90. Ingrid Žilincová, 52 r., ekonómka, Banská Bystrica
+91. Martin Šikula, Ing., 55 r., prednosta MsÚ, Banská Bystrica
+92. Marta Klačanová, 52 r., podnikateľka, Selce
+93. Jaroslav Bytčanek, Bc., 56 r., manažér, Čadca
+94. Editka Takáčová, Mgr., 63 r., zdravotná sestra, Slovenské Nové Mesto
+95. Ester Kramárová, Mgr., 25 r., psychologička, Podlužany
+96. František Turňa, 56 r., filmár, Bratislava
+97. Patrik Drahovský, Ing., 49 r., podnikateľ, konateľ spoločnosti, Nitrianska Blatnica
+98. Juraj Šváč, MUDr., 57 r., lekár, Tajov
+99. Vladislav Kačmár, 52 r., invalidný dôchodca, Stročín
+100. Jana Kulichová, 54 r., živnostníčka, Iža
+101. Jakub Skurčák, 34 r., podnikateľ, Habovka
+102. Tomáš Beck, 36 r., výrobný pracovník, Choča
+103. Peter Bohunický, Ing., 51 r., IT konzultant, Žilina
+104. Oto Kopál, Ing., 74 r., dôchodca, Jaslovské Bohunice
+105. Ľudmila Miklovičová, 65 r., dôchodkyňa, Sereď
+106. Daniel Ferenci, Ing., 43 r., softvérový inžinier, Bratislava
+107. David Štefan, 37 r., manager, Bratislava
+108. Tomáš Gál, Ing. arch., PhD., 49 r., architekt, Bratislava
+109. Ľubomír Macek, Mgr., 52 r., SZČO, Čereňany
+110. Peter Zika, Mgr., 41 r., projektový manažér, Bratislava
+111. Michal Lipák, 25 r., obchodný manažér, Vranov nad Topľou
+112. Ľuboš Mancal, Ing., Ing., 45 r., podnikateľ, Bratislava
+113. Pavel Petráš, 69 r., environmentalista, Zamarovce
+114. Eva Filipková, 64 r., dôchodkyňa, Banská Bystrica
+115. Zdeněk David, 66 r., podnikateľ, Banská Bystrica
+116. Rastislav Piontek, 39 r., šéfkuchár, Štrba
+117. Jaroslav Brezňan, 44 r., profesionálny náhradný rodič, Rožňava
+118. Martina Hermanová, Mgr., 40 r., terénna sociálna pracovníčka, Boleráz
+119. Katarína Péchyová, Bc., 43 r., poštová doručovateľka, Trnava
+120. Ján Eliaš, 66 r., poľnohospodár, Spišská Belá
+121. Silvia Šimeková, Mgr., 32 r., živnostníčka, Vysoké Tatry
+122. Juraj Šimko, Ing., 43 r., vedúci oddelenia pre finančné plánovanie a analýzy, Bratislava
+123. Juraj Štít, Ing., 41 r., programátor, Pezinok
+124. Rudolf Klimek, Ing., 41 r., analytik, programátor, Bratislava
+125. Ľubica Staroňová, Ing., 58 r., ekonómka, Liptovský Mikuláš
+126. Marcela Čaklošová, Mgr., 34 r., stredoškolská učiteľka, Vitanová
+127. Roman Gróf, 63 r., dôchodca, Bratislava
+128. Juraj Ivan, 50 r., obchodný referent, Veľké Uherce
+129. Barbora Balážová, Ing., 34 r., účtovníčka, Bratislava
+130. Rastislav Mackovič, Ing., 49 r., stavebný dozor, Bratislava
+131. Rudolf Čerňan, 58 r., živnostník, Lukáčovce
+132. František Poláček, 48 r., nástrojár, Spišská Belá
+133. Vilma Mancalová, 71 r., dôchodkyňa, Bratislava
+134. Emil Sútor, 34 r., koordinátor detského menu, Lučenec
+135. Martina Pavelková, 43 r., administratívna pracovníčka, Nitra
+136. Katarína Orosová, 44 r., asistentka predaja, Bratislava
+137. Milan Sáska, Ing., 57 r., živnostník, Trenčín
+138. Jakub Blaha, Bc., 26 r., študent, Zavar
+139. Daniela Minčíková, Bc., 25 r., študentka, Trnava
+140. Jaroslav Šmíd, Ing., PhD., 54 r., manažér, Trenčín
+141. Marcela Barteľová, 53 r., poisťovacia poradkyňa, Spišská Nová Ves
+142. Tatiana Barteľová, Mgr., 26 r., billing associate, Spišská Nová Ves
+143. Štefan Stankovský, 68 r., dôchodca, Stupava
+144. Ivan Macek, Ing., 34 r., obchodný zástupca, Nové Zámky
+145. Vladimír Matfiak, Ing., 58 r., ekonóm, Spišská Belá
+146. Miroslav Martišovič, 24 r., študent, Bratislava
+147. Alena Faiglová, Ing., 55 r., administratívna pracovníčka, Liptovský Mikuláš
+148. Dušan Káčer, Mgr., 45 r., projektový manažér, Nitra
+149. Miroslav Štelcl, 38 r., odborný predajca, Banská Bystrica
+150. Tibor Kramár, Mgr., LL.M., 57 r., manažér súkromných škôl, Nová Dubnica

@@ -1,0 +1,45 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 8
+Názov politickej strany: Hlas pravice
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Ondrej Matej, Ing., 50 r., konateľ spoločnosti, Prešov
+2. Ľubomír Ochotnický, Ing., MBA, 53 r., manažér, Marianka
+3. František Stručka, Ing., 49 r., projektový manažér, Bratislava
+4. Jaroslav Málek, JUDr., 62 r., právnik, Bratislava
+5. Ludvík Posolda, Mgr., 61 r., konateľ spoločnosti, Bratislava
+6. Roman Hrnčirík, Ing., 51 r., ekonóm, Holíč
+7. Viktor Magic, Ing., 48 r., stavebný inžinier, Bratislava
+8. Lenka Beňačková, M.A., 34 r., projektová manažérka, Topoľčany
+9. Adriana Trojanovičová, Mgr., 46 r., učiteľka anglického jazyka, Sabinov
+10. Jozef Mišenko, 29 r., konateľ stavebnej spoločnosti, Orlov
+11. Matej Bórik, MBA, 34 r., manažér, Martin
+12. Jaroslav Mäsiar, Ing., 41 r., manažér v oblasti dopravy, Prievidza
+13. Veronika Ladňáková, Mgr., 30 r., študentka, koordinátorka projektov v OZ, Martin
+14. Marián Adamišín, Ing., 48 r., obchodný riaditeľ, Bardejov
+15. Stanislav Ondirko, Ing., 52 r., súdny znalec v odbore cestná doprava, Drienica
+16. Adam Šipoš, 42 r., zamestnanec obecného úradu, Bernolákovo
+17. Martina Cibulášová, Mgr., 45 r., manažérka, Prešov
+18. Peter Tinath, MUDr., 29 r., lekár, Orlov
+19. Adam Kordiak, 22 r., manažér spoločnosti, Námestovo
+20. Eduard Vokál, Ing., 59 r., technik, Lipany
+21. Vladimír Kažimír, 49 r., živnostník, Bardejov
+22. Michal Staško, Mgr. art., 47 r., dizajnér, Piešťany
+23. Tomáš Beharka, 39 r., konateľ spoločnosti, Vrútky
+24. Ján Vysocký, Mgr., 48 r., manažér, Ľubotice
+25. Martin Mečiar, 46 r., zamestnanec obecného úradu, Most pri Bratislave
+26. Anton Kupšo, JUDr., 52 r., advokát, Vysoká nad Kysucou
+27. Martin Gácik, PhDr., 45 r., živnostník, regionálny historik, Bytča
+28. Zuzana Lakatošová, Mgr., 34 r., mediátorka, Bratislava
+29. Pavol Zemko, Mgr., 55 r., projektový manažér, Martin
+30. Marek Jaš, Mgr., 47 r., konateľ spoločnosti, Prešov
+31. Vladimír Klimeš, Mgr., 65 r., riaditeľ spoločnosti, Ľubica
+32. Petra Kocáková, Bc., 24 r., študentka, Holíč
+33. Ján Brozman, Ing., 51 r., starosta obce, Drienovská Nová Ves
+34. Ján Knapík, 48 r., živnostník, Orlov
+35. Ingrid Janáková, Mgr., 45 r., manažérka kvality, Ľubotice
+36. Juliána Lukačovičová, DiS., 23 r., zubná technička, Oravské Veselé
+37. František Majirský, 70 r., dôchodca, Prešov
+38. Dorota Kurejová, Mgr., 44 r., asistentka, Fričovce
+39. Roman Žilinčík, Ing., 45 r., tajomník pre cirkevné školy, Zvolen
+40. Emília Bernátová, PhDr., 67 r., dôchodkyňa, Bratislava
+41. Ľuboš Ľupták, 50 r., konateľ spoločnosti, Lišov

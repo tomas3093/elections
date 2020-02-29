@@ -1,0 +1,78 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 16
+Názov politickej strany: Slovenská liga
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Roman Ruhig, Mgr., 49 r., právnik, Bratislava
+2. Eva Zelenayová, Ing., 74 r., šéfredaktorka, Bratislava
+3. Jozef Behýl, Mgr., 62 r., podnikateľ, Bratislava
+4. Štefan Hrušovský, prof. MUDr., CSc., Dr.,SVS, 65 r., gastroenterológ, Bratislava
+5. Iveta Kurillová, Ing., 51 r., obchodná riaditeľka, Rovinka
+6. Peter Futáš, doc. Ing., PhD., 42 r., vysokoškolský pedagóg, Košice
+7. Martina Sarková, 42 r., manažérka, Sliač
+8. Jaroslav Belúch, Mgr., 41 r., učiteľ, Rosina
+9. Ivan Melicher, Ing., 56 r., bezpečnostný analytik, Veľké Orvište
+10. Róbert Bačinský, 54 r., SZČO, Bratislava
+11. Emil Vaňko, JUDr., 60 r., advokát, Tŕnie
+12. Miroslav Kríž, Ing., PhD., 66 r., súdny znalec, Bratislava
+13. Vladimír Malý, Ing., 69 r., konateľ, Bratislava
+14. Renáta Knezović, PhDr. Mgr., PhD., 54 r., riaditeľka domova dôchodcov, Bratislava
+15. Peter Hanic, Ing., 68 r., kultúrny pracovník, Bratislava
+16. Marian Hlavatovič, Ing., 64 r., SZČO, Bratislava
+17. Peter Šedovič, Bc., 31 r., manažér, Nitra
+18. Miroslav Bartoš, Mgr., 51 r., nezávislý audiovizuálny producent, Bratislava
+19. Lýdia Babarcsíková, Mgr., 35 r., politologička, Čečejovce
+20. Matúš Čák, Mgr., 45 r., zamestnanec MO SR, Trenčín
+21. Nikola Kutáková, Bc., 27 r., cashier, Martin
+22. Zuzana Čičová, 63 r., dôchodkyňa, Drietoma
+23. Vladimír Šulan, 59 r., zdravotný ošetrovateľ, Veľký Krtíš
+24. Peter Zelenay, Mgr., 50 r., pracovník v gastronómií, Bratislava
+25. Stanislav Kubica, 49 r., cukrár, Pusté Úľany
+26. Andrej Marko, 29 r., konateľ, Dechtice
+27. Jozef Gajdoš, Mgr., 46 r., mestský policajt, Lipany
+28. Pavol Richtarčík, Mgr., 50 r., učiteľ, Spišská Nová Ves
+29. Ján Grendel, 67 r., dôchodca, Liptovský Mikuláš
+30. Rudolf Slezák, Ing., 73 r., dôchodca, Bratislava
+31. Monika Bagitová, 53 r., dispečerka, Kolárovo
+32. Gabriela Balajová, 53 r., invalidná dôchodkyňa, Trenčín
+33. Ladislav Lendvay, Bc., 25 r., ošetrovateľ-sestra, Veľký Krtíš
+34. Ján Markovič, Ing., 65 r., realitný maklér, Bratislava
+35. Jarmila Karasová, 77 r., novinárka, Bratislava
+36. Martin Škriňa, 40 r., konateľ spoločnosti, Bratislava
+37. Vincent Kubek, 70 r., redaktor, Bardejov
+38. Vladimír Šúth, 41 r., záchranár, Veľký Krtíš
+39. Anna Cmoríková, PhDr., 59 r., pracovníčka vo verejnej správe, Plešivec
+40. Alexander Koreň, PhDr., 65 r., dôchodca, Nové Mesto nad Váhom
+41. Mária Žáková, 29 r., čašníčka, Rovinka
+42. Juraj Peržo, Mgr., 63 r., učiteľ, Modra
+43. Ivica Rokošná, 73 r., dôchodkyňa, Trenčín
+44. Jorge Porubský, 62 r., tlmočník SZČO, Veľké Kostoľany
+45. Patrik Frič, 25 r., konateľ, Nová Dubnica
+46. Peter Rusnák, 57 r., živnostník, Žiar nad Hronom
+47. Iveta Bleilevensová, 47 r., manažérka, Nové Zámky
+48. Tomáš Balážik, JUDr., 48 r., advokát, Košice
+49. Jana Bédiová, BSBA, 45 r., manažérka, Bratislava
+50. Vladimír Chalúpka, Ing., 64 r., SZČO, Bratislava
+51. Štefan Štark, Ing., 62 r., podnikateľ, Košice
+52. František Lakatoš, 39 r., robotník, Zvolen
+53. Marta Šajbidorová, Ing., 67 r., dôchodkyňa, Trenčín
+54. Daniela Dlasková, 66 r., dôchodkyňa, Trenčín
+55. Jozef Noskovič, 46 r., vodič, Bratislava
+56. Miroslav Didi, 59 r., dôchodca, Zvolen
+57. Terézia Látalová, 60 r., producentka, Košice
+58. Ivan Bereš, MVDr., 76 r., dôchodca, Bratislava
+59. Miroslav Obermajer, 45 r., SZČO, Bratislava
+60. Kamil Selický, 55 r., nezamestnaný, Nové Zámky
+61. Tibor Kocian, 65 r., dôchodca, Žiar nad Hronom
+62. Ján Bolf, 72 r., dôchodca, Spišská Nová Ves
+63. Miroslav Mečár, doc. Ing., CSc., 71 r., vysokoškolský učiteľ, Bratislava
+64. Viera Chalúpková, 64 r., dôchodkyňa, Bratislava
+65. Jozef Banás, 58 r., vodič, Dubnica nad Váhom
+66. Jozef Molnár, 34 r., dobrovoľne nezamestnaný, Bratislava
+67. Marián Ševčík, JUDr., CSc., 69 r., advokát, Bratislava
+68. Jozef Kalivoda, 53 r., dobrovoľne nezamestnaný, Stupava
+69. Gabriel Melega, 67 r., dôchodca, Ňárad
+70. Martin Kováč, Mgr., 45 r., obchodno-technický zástupca, Trenčín
+71. Radoslav Haško, Mgr., 48 r., podnikateľ, Bratislava
+72. Jozef Magáč, 59 r., SZČO, Brezovka
+73. Peter Lahita, 55 r., inštruktor sociálnej rehabilitácie, Levice
+74. Daniel Bartko, 64 r., dôchodca, Važec

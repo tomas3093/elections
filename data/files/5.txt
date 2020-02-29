@@ -1,0 +1,29 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 5
+Názov politickej strany: Slovenské Hnutie Obrody
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Róbert Švec, 43 r., politológ, Nitra
+2. Marián Chudý, 41 r., SZČO, Leopoldov
+3. Pavol Poprocký, Bc., 24 r., študent, Rumince
+4. Pavol Skýpala, 38 r., pracovník vo výrobe, Poltár
+5. Alžbeta Szénásiová, 54 r., SZČO, Levice
+6. Radomír Pikna, Mgr., 47 r., administratívny pracovník, Leopoldov
+7. Daniela Fratričová, 34 r., SZČO, Leopoldov
+8. Maroš Sabolčák, 39 r., manažér, Podlužany
+9. Rastislav Bartoš, Ing., 34 r., SZČO, Malé Zlievce
+10. Pavol Soóš, 33 r., konateľ s.r.o., Stropkov
+11. Katarína Boková, 37 r., dispečerka, Turčianske Kľačany
+12. Jaroslava Samuelová, 54 r., opatrovateľka, Maňa
+13. Marcel Polačik, 30 r., vedúci smeny, Nitra
+14. Adam Kurinec, 29 r., produktový expert, Leopoldov
+15. Svetana Angelová, 67 r., dôchodkyňa, Príbovce
+16. Ľuboš Sukup, 34 r., java developer, Skalica
+17. František Šípoš, 52 r., mechanik, Omšenie
+18. Ivana Hreháčová, 52 r., referentka, Trebišov
+19. Ivan Chudý, Ing., 48 r., podnikateľ, Topoľčany
+20. Gabriel Huraj, Ing., 47 r., SZČO, Sabinov
+21. Peter Višnyi, 65 r., SZČO, Košice
+22. Ladislav Kopel, 57 r., zriaďovač, Martin
+23. Martina Sabolčáková, Ing., 38 r., inšpektorka, Podlužany
+24. Jozef Pištek, Ing., 63 r., dôchodca, Čadca
+25. Natália Klempaiová, Ing., 65 r., dôchodkyňa, Námestovo

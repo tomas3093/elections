@@ -1,0 +1,154 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 19
+Názov politickej strany: SMER - sociálna demokracia
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Peter Pellegrini, Ing., 44 r., predseda vlády SR, Banská Bystrica
+2. Robert Fico, doc. JUDr., CSc., 55 r., poslanec NR SR, Bratislava
+3. Denisa Saková, Ing., PhD., 43 r., ministerka vnútra SR, Bratislava
+4. Richard Raši, MUDr., PhD., MPH., 48 r., podpredseda vlády SR, Košice
+5. Juraj Blanár, Ing., 53 r., poslanec NR SR, Žilina
+6. Peter Žiga, Ing., PhD., 47 r., minister hospodárstva SR, Košice
+7. Ladislav Kamenický, Ing., 49 r., minister financií SR, Bratislava
+8. Jaroslav Baška, Ing., 44 r., poslanec NR SR, Dohňany
+9. Erik Tomáš, Mgr., 44 r., poslanec NR SR, Bratislava
+10. Matúš Šutaj Eštok, Mgr., 33 r., vedúci Úradu vlády SR, Bratislava
+11. Ľuboš Blaha, Mgr. PhDr., PhD., 40 r., vysokoškolský učiteľ, Bratislava
+12. Ján Richter, JUDr., 63 r., minister, Nitra
+13. Ľubica Laššáková, PhDr., 59 r., ministerka kultúry SR, Banská Bystrica
+14. Martin Nemky, Ing., MBA, 39 r., poslanec NR SR, Nitra
+15. Ján Podmanický, JUDr. PhDr., PhD., 42 r., poslanec NR SR, Stará Bystrica
+16. Peter Kmec, JUDr., 53 r., diplomat, Senec
+17. Viliam Zahorčák, 60 r., primátor mesta Michalovce, Michalovce
+18. Marián Saloň, Ing., PhD., 42 r., štátny tajomník, Stará Ľubovňa
+19. Ľubomír Petrák, Ing., CSc., 58 r., poslanec NR SR, Hurbanova Ves
+20. Boris Susko, JUDr., PhD., 49 r., štátny tajomník, Ivanka pri Dunaji
+21. Ľubomír Vážny, Ing., 62 r., poslanec NR SR, Banská Bystrica
+22. Jozef Habánik, doc. Ing., PhD., 43 r., rektor, Trenčín
+23. Vladimír Faič, 71 r., poslanec NR SR, Prašice
+24. Dušan Muňko, Ing., 75 r., poslanec NR SR, Bratislava
+25. Anton Stredák, PaedDr., 56 r., štátny tajomník, Nitra
+26. Róbert Puci, Ing., 46 r., poslanec NR SR, Trebišov
+27. Peter Šuca, PaedDr., 51 r., poslanec NR SR, Nová Lesná
+28. Ján Ferenčák, PhDr. Mgr., MBA, 45 r., primátor mesta Kežmarok, Kežmarok
+29. Dušan Galis, 70 r., poslanec NR SR, Bratislava
+30. Dušan Jarjabek, doc. Mgr. art., 66 r., poslanec NR SR, Bratislava
+31. Maroš Kondrót, Ing., 59 r., poslanec NR SR, Bratislava
+32. Vladimír Baláž, MUDr., PhD., 61 r., lekár, Banská Bystrica
+33. Jana Vaľová, PhDr., 54 r., poslankyňa NR SR, Humenné
+34. Richard Takáč, Ing., 37 r., obchodný riaditeľ, Prievidza
+35. Marián Kéry, Mgr., 42 r., poslanec NR SR, Zlaté Moravce
+36. Jozef Valocký, MUDr., 63 r., poslanec NR SR, Galanta
+37. Stanislav Kubánek, Ing., 68 r., poslanec NR SR, Prešov
+38. Ján Blcháč, Ing., PhD., 60 r., primátor mesta, Liptovský Mikuláš
+39. Augustín Hambálek, Ing., 62 r., poslanec NR SR, Trnava
+40. Vladimír Jánošík, Ing., 54 r., primátor mesta Lipany, Lipany
+41. Ján Kvorka, 65 r., poslanec NR SR, Blatnica
+42. Zdenko Svoboda, Mgr., MBA, 37 r., ekonomicko-technický námestník, Nitra
+43. Branislav Ondruš, Mgr., 46 r., štátny tajomník, Bratislava
+44. Pavol Goga, PaedDr., 56 r., poslanec NR SR, Topoľčany
+45. Mária Janíková, PhDr., MBA, 49 r., poslankyňa NR SR, riaditeľka Centra sociálnych služieb, Partizánske
+46. Jozef Ježík, MUDr., 52 r., lekár, Zvolen
+47. Peter Náhlik, PhDr., 38 r., poslanec NR SR, Trnava
+48. Ján Senko, PhDr., 61 r., poslanec NR SR, starosta, Očová
+49. Vojtech Ferencz, doc. Ing., PhD., 49 r., štátny tajomník, Bohdanovce
+50. Marek Mitterpák, Ing., PhD., 45 r., poslanec NR SR, Košice
+51. Jozef Smatana, Ing., 57 r., prednosta okresného úradu, Považská Bystrica
+52. Kvetoslava Hejbalová, PhDr., 64 r., stredoškolská učiteľka, Nové Mesto nad Váhom
+53. Michal Bagačka, Mgr., 56 r., štátny tajomník, Hnúšťa
+54. Oľga Nachtmannová, Mgr., PhD., 56 r., štátna tajomníčka, Bratislava
+55. Marián Valentovič, Ing., 36 r., generálny riaditeľ ÚPSVaR, Trebatice
+56. Martin Karaš, Ing., 35 r., riaditeľ kultúrnej inštitúcie, Kamienka
+57. Ladislav Andreánsky, MUDr., 56 r., lekár, Liptovský Hrádok
+58. Jozef Cech, PaedDr., 38 r., starosta, Skalité
+59. Mikuláš Krajkovič, Mgr., MBA, 51 r., poslanec NR SR, Vápeník
+60. Jaroslav Demian, Ing., 57 r., štátny zamestnanec, Brezno
+61. František Petro, Ing., 58 r., starosta, Ploské
+62. Michal Kapuš, Ing., 39 r., prednosta okresného úradu, Bánovce nad Bebravou
+63. Pavol Čorba, PhDr., 38 r., generálny štátny radca, Žilina
+64. Katarína Roth Neveďalová, Mgr., 37 r., poradkyňa podpredsedu vlády SR, Bratislava
+65. Zuzana Matejičková, Bc., 23 r., študentka, Komárno
+66. Andrea Žiaková, Ing., 48 r., prednostka okresného úradu, Lutila
+67. Richard Eliáš, JUDr., 33 r., vedúci majetkovoprávneho odboru OÚ, Prešov
+68. Milan Mojš, Ing., 63 r., poslanec NR SR, Likavka
+69. Boleslav Lešo, MVDr., PhD., 53 r., prednosta okresného úradu, Baškovce
+70. Peter Kalivoda, Mgr., 42 r., riaditeľ, Plavecký Štvrtok
+71. Igor Válek, Ing., 41 r., riaditeľ ÚPSVaR, Trnava
+72. Miroslav Čellár, Mgr. Bc., 36 r., podpredseda Úradu priemyselného vlastníctva SR, Banská Bystrica
+73. Peter Obrimčák, MUDr., 59 r., riaditeľ nemocnice, Poprad
+74. Martin Petruško, JUDr., 46 r., právnik, Košice
+75. Iveta Hanulíková, Ing., 55 r., riaditeľka inštitútu vzdelávania, Bratislava
+76. Vladimír Kocourek, Ing., 56 r., prednosta okresného úradu, Senica
+77. Jozef Stopka, JUDr. Ing., PhD., 52 r., prednosta okresného úradu, Handlová
+78. František Mrázik, Ing., 59 r., SZČO, Žihárec
+79. Igor Melicher, Mgr., 26 r., štátny radca, Poltár
+80. Peter Gaži, Ing., 54 r., lesný inžinier, Spišská Belá
+81. Ján Jakubov, Ing., 62 r., projektový manažér, Košice
+82. Dušan Dvoran, 66 r., starosta obce, Vysoká pri Morave
+83. Ján Horváth, Ing., 65 r., starosta, Chtelnica
+84. Michal Moško, Mgr., 46 r., krajský riaditeľ VŠZP, Trenčín
+85. Ervín Weiss, Mgr., PhD., 33 r., vysokoškolský pedagóg, Podhorany
+86. Branislav Hámorník, Ing., 55 r., prednosta okresného úradu, Lučenec
+87. Michal Lukša, Mgr., MBA, 57 r., asistent poslanca, Snina
+88. Ján Mažgút, Mgr., 38 r., hovorca strany SMER - SD, Bratislava
+89. Peter Švider, JUDr. PhDr., 34 r., právnik, Košice
+90. Rastislav Strečanský, PhDr. Bc., 35 r., prednosta okresného úradu, Hlohovec
+91. Henrich Gašparík, MUDr., PhD., 54 r., riaditeľ NsP, Rudník
+92. Helena Bohátová, Ing., PhD., 59 r., riaditeľka ÚPSVaR, Nové Zámky
+93. Martina Jarošová Gašparová, Mgr., 36 r., koordinátorka regionálneho centra sociálnej ekonomiky, Levice
+94. Ján Baňas, Ing., 52 r., prednosta okresného úradu, Lipany
+95. Miroslav Kovalčík, Ing., 57 r., prednosta okresného úradu, Turčianske Teplice
+96. Štefan Daňo, RSDr. JUDr., 72 r., advokát, Košice
+97. Adam Nociar, JUDr., MPH, 33 r., riaditeľ odboru verejného obstarávania, Bratislava
+98. Júlia Gálová, Mgr., 65 r., administratívna pracovníčka, Galanta
+99. Dana Šťastná, Ing., 51 r., prednostka okresného úradu Ilava, Dubnica nad Váhom
+100. Dáša Ďurianová, Bc., DBA, 57 r., finančná riaditeľka, Kozárovce
+101. Radovan Lehocký, Mgr., 44 r., hlavný inšpektor práce, Dolná Krupá
+102. Ľuboš Martinák, Ing., 61 r., poslanec NR SR, Medzilaborce
+103. Iveta Krajčovičová, Mgr., 54 r., vedúca zamestnankyňa, Báhoň
+104. Norbert Rudický, Mgr., 46 r., vedúci odboru ÚPSVaR, Veľký Meder
+105. Jozef Hollan, Bc., 57 r., vedúci vnútornej správy OcÚ Lednické Rovne, Lednické Rovne
+106. Marek Oremus, Ing., 56 r., primátor mesta Šurany, Šurany
+107. Rastislav Kudla, JUDr., 41 r., právnik, Trenčín
+108. Štefan Hreha, Ing., 61 r., riaditeľ sociálnej poisťovne Vranov nad Topľou, Vranov nad Topľou
+109. Miroslav Gabara, PhDr., 41 r., riaditeľ ÚPSVaR Námestovo, Tvrdošín
+110. Richard Bittner, Mgr., 32 r., štátny zamestnanec, Piešťany
+111. Peter Flamík, Bc., 46 r., starosta obce, Prietržka
+112. Peter Burčo, Ing., 32 r., starosta obce, Bátovce
+113. Jozef Magát, Ing., 51 r., starosta obce, Sľažany
+114. Daniel Karas, Mgr., 45 r., SZČO, Banská Bystrica
+115. Jozef Guliga, Mgr., 37 r., vedúci kancelárie primátora, Bardejov
+116. Vladimír Božek, Ing., 61 r., riaditeľ ÚPSVaR Martin, Kláštor pod Znievom
+117. Martin Kostelničák, PhDr., PhD., 36 r., marketingový manažér, Bratislava
+118. Kamil Blaho, 63 r., starosta obce, Voznica
+119. Eduard Hulík, Ing. JUDr., 58 r., advokát, Bratislava
+120. Roman Urbáník, PaedDr., 56 r., starosta obce, Močenok
+121. Marián Siekela, RNDr., 59 r., prednosta okresného úradu Veľký Krtíš, Krupina
+122. Vladimír Macašek, Ing., 61 r., administratívny pracovník, Kysucké Nové Mesto
+123. Ivana Antošová, Mgr., 51 r., manažérka, Bratislava
+124. Evamária Veselská, Mgr., 26 r., štátna zamestnankyňa, Holíč
+125. Pavol Dragula, Mgr., 37 r., riaditeľ odboru služieb zamestnanosti, Turčianky
+126. Milan Halúz, Bc., 53 r., obchodný manažér, Levice
+127. Alexander Daško, Mgr., 50 r., riaditeľ SZUŠ - LAVUTA, Banská Bystrica
+128. Miroslav Štefček, Ing., 57 r., predseda poľnohospodárskeho družstva, Štiavnička
+129. Marian Slaminka, JUDr., 34 r., právnik, Bratislava
+130. Kamil Vaňa, 62 r., správca priemyselného parku, Trnava
+131. Mário Zajac, Ing., 48 r., manažér, Dubnica nad Váhom
+132. Marek Illéš, Ing., 45 r., generálny riaditeľ, Nitra
+133. Jozef Žilík, Ing., 60 r., riaditeľ, Poltár
+134. Marián Ličko, Ing., 67 r., dôchodca, Slovenské Pravno
+135. Lília Lohnická, Ing., 55 r., stavebná inžinierka, Bratislava
+136. Radko Gavliak, Ing., 42 r., riaditeľ ÚPSVaR, Prievidza
+137. Jozef Mokoš, 53 r., starosta, Nemčice
+138. Ľubomír Haško, 47 r., SZČO, Veľký Krtíš
+139. Matúš Mních, JUDr., 57 r., starosta, Zázrivá
+140. Dušan Šebok, JUDr., 49 r., starosta, Kráľová pri Senci
+141. Milan Galaba, Mgr., 56 r., štátny zamestnanec, Zlaté Moravce
+142. Anna Líšková, Mgr., 46 r., vedúca majetkovoprávneho odboru OÚ, Žiar nad Hronom
+143. Peter Morong, RNDr., 49 r., riaditeľ lesného závodu, Brezno
+144. Janka Krahulíková, Mgr., 58 r., riaditeľka ÚPSVaR, Topoľčany
+145. Martin Madlo, Mgr., 39 r., SZČO, Piešťany
+146. Božena Reingraberová, 55 r., účtovníčka, Dunajská Lužná
+147. Roman Malatinec, Mgr. art., 38 r., podpredseda BBSK, Korytárky
+148. Petronela Vižďáková, Ing., 56 r., prednostka okresného úradu Šaľa, Trnovec nad Váhom
+149. Samuel Janec, MUDr., MPH., 67 r., lekár, Bratislava
+150. Erik Kaliňák, Mgr., 28 r., kreatívny manažér, Bratislava

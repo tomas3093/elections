@@ -1,0 +1,154 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 4
+Názov politickej strany: SME RODINA
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Boris Kollár, Mgr., 54 r., poslanec NR SR, Bratislava
+2. Milan Krajniak, Bc., 47 r., poslanec NR SR, Bratislava
+3. Petra Krištúfková, Bc., 42 r., poslankyňa NR SR, Bratislava
+4. Peter Pčolinský, Mgr., 37 r., poslanec NR SR, Nižný Hrabovec
+5. Ľudovít Goga, Ing., 51 r., poslanec NR SR, Bratislava
+6. Adriana Pčolinská, doc. PaedDr., PhD., 41 r., poslankyňa NR SR, Bratislava
+7. Zuzana Šebová, Ing., 50 r., poslankyňa NR SR, Levice
+8. Jozef Lukáč, PhDr., 46 r., poslanec NR SR, Záborské
+9. Štefan Holý, Mgr., 41 r., právnik, Trnava
+10. Martin Borguľa, Ing., 42 r., poslanec BSK, Bratislava
+11. Ľuboš Krajčír, PhDr., 33 r., zástupca starostu, Bratislava
+12. Monika Péter, JUDr., 40 r., právnička, Bratislava
+13. Miloš Svrček, JUDr. Bc., PhD., LL.M., 36 r., generálny manažér hnutia, Michalovce
+14. Petra Hajšelová, JUDr., 37 r., právnička, Prievidza
+15. Igor Kašper, Ing., 40 r., krajský poslanec, ekonóm, Banská Bystrica
+16. Jaroslav Karahuta, MVDr., 58 r., riaditeľ spoločnosti, Vyšná Šebastová
+17. Jozef Hlinka, Ing., PhD., 56 r., živnostník, Bratislava
+18. Eva Hudecová, Mgr., 30 r., politologička, Nitra
+19. Ľuboš Kabát, 48 r., SZČO, Biely Kostol
+20. Martin Dzielavský, Mgr., 38 r., podnikateľ, Trebišov
+21. Jozef Mozol, Mgr., 32 r., moderátor, Krásno nad Kysucou
+22. Róbert Bartoš, 49 r., konateľ spoločnosti, Nové Zámky
+23. Marek Košč, 47 r., key account manager, Prešov
+24. Martin Petriska, 23 r., študent univerzity, Zvolen
+25. Ján Mizerák, Ing., 59 r., podnikateľ, Banská Bystrica
+26. Matúš Méheš, JUDr., 39 r., advokát, Bratislava
+27. Ľuboš Šuca, 36 r., podnikateľ, Spišská Nová Ves
+28. Radomír Kizek, 43 r., SZČO, Medzany
+29. Marcela Kulifajová, Ing., 45 r., konzultantka v oblasti vzdelávania, Bratislava
+30. Michal Gašaj, Ing., PhD., 37 r., vicestarosta, Bratislava
+31. Daniel Gelien, Mgr., 44 r., starosta obce, Slaská
+32. Ján Jedinák, Bc., 29 r., IT architekt, Kežmarok
+33. Lukáš Pčolinský, Mgr., 34 r., pedagóg, Nižný Hrabovec
+34. Sylvia Horváthová, Mgr., 40 r., psychologička, Lok
+35. Rastislav Kunst, Mgr., 47 r., riaditeľ ZŠ s MŠ, Bratislava
+36. Dalibor Steindl, Ing., MBA, 43 r., riaditeľ, Martin
+37. Gizela Kevélyová, 49 r., manažérka vzdelávania, Veľký Kýr
+38. Martin Meričko, Ing., 30 r., starosta obce, Lukačovce
+39. Ján Paško, Mgr., 34 r., manažér, Važec
+40. Tomáš Gbúr, MBA, 26 r., manažér, Banská Bystrica
+41. Zuzana Chamulová, 56 r., detská sestra, Vígľaš
+42. Dušan Havlík, Ing., 45 r., finančný manažér, Nové Zámky
+43. Lenka Hierzer Štiber, Bc., 41 r., starostka obce, Slovenská Kajňa
+44. Daniel Ručkay, 42 r., SZČO, Piešťany
+45. Sylvia Kulašik, 54 r., manažérka, Bratislava
+46. Richard Rosival, 39 r., mestský policajt, Košice
+47. Silvia Chudá, 43 r., špecialistka rozvoja maloobchodnej siete, Trnava
+48. Katarína Heredošová, Mgr., DiS. art., 44 r., riaditeľka školy, Sabinov
+49. Roland Kečkéš, Bc., 32 r., country manager, Nitra
+50. Marcel Janco, Ing., 44 r., znalec v odbore cestná doprava, Považská Bystrica
+51. Jana Plšková, Mgr., 44 r., klientská pracovníčka banky, Zamarovce
+52. Vladimír Čech, 54 r., živnostník, Žilina
+53. Regan Belovič, MUDr. Mgr., 49 r., podnikateľ, Šaľa
+54. Patrik Živojinov, Bc., 39 r., odborný poradca, Ilava
+55. Michal Michalov, Ing., MBA, 35 r., súkromný podnikateľ, Košice
+56. Juraj Moravčík, Mgr., 35 r., štátny zamestnanec, Šamorín
+57. Michal Kňažek, 40 r., operátor výroby, Bolešov
+58. Ján Vengrín, 45 r., mestský policajt, Tisovec
+59. Marián Kráľ, Mgr., 42 r., hovorca mesta, Čadca
+60. Miroslav Pisko, 50 r., poisťovací poradca, Prakovce
+61. Michaela Gašparíková, 26 r., konateľka, Žilina
+62. Mária Čujová, Mgr., 40 r., riaditeľka materskej školy, Spišská Nová Ves
+63. Ľuboslav Chvasta, 57 r., živnostník, Laškovce
+64. Ján Kucman, Mgr., 37 r., projektový manažér, Trnava
+65. Katarína Líška, 41 r., ekonómka, Jedľové Kostoľany
+66. Milan Bezák, 41 r., podnikateľ, Žabokreky nad Nitrou
+67. Andrea Krajčiová, Bc., 36 r., pomocná vychovávateľka, Jasenie
+68. František Kmec, 41 r., technik BOZP, Kysak
+69. Zuzana Jurčenková, 40 r., SZČO, Prešov
+70. Ján Sarvaš, Mgr., 40 r., starosta, Majerovce
+71. Michal Vicáň, Mgr., 35 r., manažér pre stratégiu a rozvoj, Bratislava
+72. Ján Skukálek, 44 r., SZČO, Trnava
+73. Alena Krišková, 65 r., majsterka odborného výcviku, Podolie
+74. Peter Janda, Ing., PhD., 31 r., vedúci kvality inžinierov, Zvolen
+75. Samuel Zemko, 29 r., obchodný zástupca, Šaľa
+76. Patrik Špalek, PaedDr., 27 r., revízny technik, Oščadnica
+77. Dávid Béreš, JUDr., 27 r., advokátsky koncipient, Bratislava
+78. Gábor Oros, Mgr., 29 r., právnik, Galanta
+79. Lambert Kajanovič, 35 r., obchodný manažér, Nové Zámky
+80. Erika Ďurdíková, 48 r., SZČO, Púchov
+81. Roman Vajaš, Mgr., 47 r., projektový manažér, Myjava
+82. Ladislav Černý, Mgr., 43 r., lekárnik, Veľký Krtíš
+83. Martin Rusnák, 40 r., riaditeľ, Námestovo
+84. Ján Gondek, 52 r., starosta obce, Lesnica
+85. Attila Widerman, Ing., 33 r., výkonný riaditeľ, Galanta
+86. Jana Germanová, Bc., 40 r., poistná managerka, Trebišov
+87. Anna Domianová, Ing., 55 r., podnikateľka, Nitra
+88. Milan Molnár, Mgr., 47 r., riaditeľ školy, Lučenec
+89. Tomáš Kujan, 38 r., konateľ, Žilina
+90. Jana Lučová, 30 r., SZČO, Bardejov
+91. Ján Frankovič, Ing., 44 r., ekonóm, Košice
+92. Július Chovanec, 51 r., manager, Bratislava
+93. Ján Bihari, Mgr., 43 r., projektový manažér, Sereď
+94. Adrián Vrečič, 28 r., podnikateľ, Komárno
+95. Pavel Hazucha, Ing., 44 r., učiteľ odborných predmetov, Partizánske
+96. František Chamula, 59 r., invalidný dôchodca, Vígľaš
+97. Ingrida Stankovianska, Mgr., 38 r., referentka vo verejnej správe, Ľubeľa
+98. Juraj Adam, Mgr., 31 r., manažér, Drienica
+99. Ladislav Šutý, Ing., 57 r., asistent poslanca NR SR, Bratislava
+100. Patrick Linhart, BSc., 43 r., potravinový kritik, Bratislava
+101. Tomáš Kinik, Ing., 35 r., regionálny manažér, Prešov
+102. Lukáš Tóth, 32 r., podnikateľ, Lehnice
+103. Norbert Járik, 42 r., vedúci skladového hospodárstva, Bánov
+104. Boris Ilkyw, Ing., 38 r., pracovník v IT sfére, Trenčín
+105. Tibor Pipas, MUDr., 52 r., lekár, Tornaľa
+106. Peter Sieklik, 49 r., konateľ, Ružomberok
+107. Marek Sapara, Bc., 44 r., mestský policajt, Levoča
+108. Róbert Šegeda, JUDr., 43 r., advokát, Malacky
+109. Patrik Sloboda, Bc., 27 r., process engineer, Holíč
+110. Miroslav Bauer, Ing., 58 r., SZČO, Bratislava
+111. Liliana Štefanková, Ing., 62 r., starobná dôchodkyňa, Topoľčany
+112. Daniela Tuchyňová, 54 r., vedúca personálneho oddelenia, Prievidza
+113. Milan Vetrák, 45 r., bezpečnostný pracovník, Brezno
+114. Roman Rosenberg, 53 r., podnikateľ, Žilina
+115. Martin Rogovský, Mgr., 42 r., manažér, Košice
+116. Martin Ondruš, MUDr., 52 r., lekár - stomatológ, Bratislava
+117. Mário Obuch, Mgr., 47 r., kontrolór, Lehnice
+118. Viera Reich, Mgr., 53 r., živnostníčka, Kopčany
+119. Klára Cigáňová, Bc., 48 r., pedagogická asistentka, Jelšovce
+120. Radovan Bíreš, 31 r., SZČO, Stará Turá
+121. Tomáš Vitéz, 36 r., SZČO, Poltár
+122. Ľuboš Gottwald, Mgr., 34 r., projektový manažér, Vrútky
+123. Marián Mečír, JUDr., PhD., 30 r., právnik, Veľké Kostoľany
+124. Ján Tomáš, BSBA, 39 r., portfolio manager v IT, Trnávka
+125. Jakub Pandoš, 22 r., študent, Lackovce
+126. Boris Kuzmický, PhDr., 41 r., podnikateľ, Nitra
+127. Martin Ježík, 34 r., obchodný predajca, Bánovce nad Bebravou
+128. Erika Revajová, PhDr., 39 r., riaditeľka, Ružomberok
+129. Ján Muránsky, Ing., 35 r., SZČO, Hnúšťa
+130. Tibor Andráš, Bc., 31 r., operátor výroby, Svit
+131. Daniel Moravčík, Mgr., 26 r., key account manager, Malé Leváre
+132. Martin Ondrúšek, 36 r., súkromný podnikateľ, Orovnica
+133. Zuzana Achbergerová, Bc., 42 r., konateľka realitnej kancelárie, Svätý Jur
+134. Slavomír Sakalik, 46 r., manažér spoločnosti, Svidník
+135. Monika Jankovičová, JUDr., 49 r., projektová managerka, právnička, Košice
+136. Róbert Kováč, 52 r., poradca - ochrana spotrebiteľa, Nové Zámky
+137. Peter Klement, 46 r., nastavovač CNC strojov, Brezová pod Bradlom
+138. Jaroslav Matovič, JUDr., 45 r., vedúci referátu, Modra
+139. Richard Smitka, Mgr., 25 r., advokátsky koncipient, Dolný Kubín
+140. Dominik Šotik, 21 r., študent, Prešov
+141. Andrea Čajkovičová, 48 r., administratívna pracovníčka, Pezinok
+142. Michal Tomin, Bc., 23 r., právnik, Červeník
+143. Dominika Zambová, 35 r., rodičovská dovolenka, Košice
+144. Hedviga Machayová, Bc., 35 r., podnikateľka v oblasti BOZP a OPP, Zvolen
+145. Norbert Mihalik, 45 r., predák, Košice
+146. Maroš Mačuha, Mgr., PhD., 46 r., SZČO, Bratislava
+147. Marián Šinkovič, Mgr., 49 r., manažér, Pečeňady
+148. Daniel Brogyányi, MgA., 61 r., výtvarník, Bratislava
+149. Jozef Dušenka, Ing., 53 r., konateľ spoločnosti, Prešov
+150. Pavol Weiss, Mgr. art., 57 r., spisovateľ - dramatik, Bratislava

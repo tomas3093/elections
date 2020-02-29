@@ -1,0 +1,84 @@
+Zoznam registrovaných kandidátov
+Číslo kandidátnej listiny: 20
+Názov politickej strany: SOLIDARITA - Hnutie pracujúcej chudoby
+Kandidáti pre voľby do Národnej rady Slovenskej republiky 29.02.2020
+1. Stanislav Mičev, PhDr., PhD., 62 r., riaditeľ múzea SNP, Banská Bystrica
+2. Ján Gabonay, JUDr., 53 r., zástupca zamestnancov, Spišská Nová Ves
+3. Jana Gidušková, 41 r., administratívna zamestnankyňa, Rudňany
+4. Vladimír Strmeň, 91 r., dôchodca, Banská Bystrica
+5. Vladimír Sklenka, PhDr., PhD., 42 r., projektový manažér, Banská Bystrica
+6. František Čekel, Ing., 50 r., konateľ, Spišská Nová Ves
+7. Július Kolenič, Ing., 46 r., projektový manažér, Bratislava
+8. Jiří Horák, 52 r., podnikateľ, Kľak
+9. Andrej Lúčny, RNDr., PhD., 48 r., informatik, učiteľ na VŠ, Banka
+10. Ingrid Zachorecová, Mgr., 51 r., riaditeľka ZŠ, Hurbanovo
+11. Pavol Ružička, 39 r., vedúci tréningového centra, Bratislava
+12. Juraj Hojnoš, 59 r., administratívny zamestnanec, Spišská Nová Ves
+13. Radovan Medovič, Ing., 44 r., učiteľ, Rudno nad Hronom
+14. Jaroslav Kaščák, 38 r., živnostník, Spišská Nová Ves
+15. Tomáš Lukačovský, Mgr., 27 r., štátny úradník, odborník na EÚ, Slovenský Grob
+16. Lucia Cabuková, 34 r., nezamestnaná, Kysucké Nové Mesto
+17. Stanislav Ďurík, 47 r., poradca v stavebníctve, Banská Bystrica
+18. Viliam Mokráň, Ing., 62 r., stavebný inžinier, Nitra
+19. Slavomír Kandra, 50 r., nástrojár, Spišské Vlachy
+20. František Dolný, Ing., 63 r., predseda poľnohospodárskeho družstva, Levoča
+21. Branislav Filip, 42 r., riaditeľ, Spišské Vlachy
+22. Štefan Pendrák, 55 r., nastavovač lisov, Spišské Vlachy
+23. Tomáš Hurajt, 38 r., zástupca zamestnancov, Huncovce
+24. Vladimír Klemanič, Mgr., 34 r., nezamestnaný, Banská Bystrica
+25. Ján Záchenský, 54 r., starosta, Kordíky
+26. Maja Repiská, Mgr., 51 r., učiteľka, Rudno nad Hronom
+27. Jana Mikulová, Bc., 35 r., zdravotná sestra, Spišské Vlachy
+28. Aladár Cichý, 65 r., dôchodca, Krompachy
+29. Ľudmila Baronová, 67 r., dôchodkyňa, Krompachy
+30. Ondrej Fabrici, 63 r., dôchodca, Kluknava
+31. Štefan Grisák, 67 r., dôchodca, Slovinky
+32. Radovan Čechovič, 49 r., družstevník, Bratislava
+33. Jozef Tomajko, 59 r., majster odborného výcviku, Spišské Vlachy
+34. Jozef Spodniak, Ing., 31 r., konateľ, Košice
+35. Marta Lőrincová, 69 r., dôchodkyňa, Košice
+36. Andrea Kmeťová, Mgr., 48 r., učiteľka, Hodruša - Hámre
+37. Dušan Cichý, 55 r., vodič sanitky, Krompachy
+38. Emil Hurta, 39 r., vedúci výroby, Veľká Dolina
+39. Ján Žemba, 54 r., banský elektrotechnik, Spišská Nová Ves
+40. Martin Kaščák, 36 r., trainee, Spišská Nová Ves
+41. Marta Poradová, 26 r., nezamestnaná, Spišské Vlachy
+42. Dušan Mlynár, 56 r., operátor materiálového manažmentu, Poprad
+43. Tomáš Zvolenský, 40 r., elektrotechnik, Spišská Nová Ves
+44. Ondrej Porada, 51 r., strojný mechanik, Spišské Vlachy
+45. Anna Figľarová, 38 r., upratovačka, Krompachy
+46. Andrej Čurilla, 61 r., zamestnanec bezpečnostnej služby, Krompachy
+47. Vlasta Borženská, 49 r., kuchárka, Kolinovce
+48. Juraj Plesník, 35 r., asistent predaja, Lieskovec
+49. Pavol Palkovič, 41 r., montér-elektrotechnik, Teplička
+50. Miroslav Šuca, 60 r., tunelár, Spišská Nová Ves
+51. Ondrej Porada, 21 r., študent, Spišské Vlachy
+52. Adela Pitková, 78 r., dôchodkyňa, Spišské Vlachy
+53. Michal Šalata, Bc., 30 r., personálny manažér, konateľ, Udavské
+54. Zoltán Baron, 69 r., dôchodca, Krompachy
+55. Katarína Hojdová, 54 r., invalidná dôchodkyňa, Spišské Vlachy
+56. Marta Poradová, 50 r., robotníčka, Spišské Vlachy
+57. Andrea Droppová, PhDr., 46 r., terénna sociálna pracovníčka, Jánovce
+58. Jozef Krištály, 29 r., živnostník, Zvolen
+59. Adela Čekelová, 79 r., dôchodkyňa, Spišská Nová Ves
+60. Pavol Peteja, 32 r., SZČO, Bardejov
+61. Daniel Mitter, 49 r., SZČO, Spišská Nová Ves
+62. Lenka Semanová, 48 r., upratovačka v ZŠ, Krompachy
+63. Ján Horváth, 35 r., predavač, Letanovce
+64. Katarína Hojdová, 23 r., manažérka, Spišské Vlachy
+65. Marián Čekel, 43 r., SZČO, Spišská Nová Ves
+66. Pavol Hlávka, 60 r., konateľ, Žilina
+67. Ján Strišovský, 27 r., nástrojár, Spišská Belá
+68. Cyril Kapitančík, 70 r., dôchodca, Spišské Vlachy
+69. Jozef Rychnavský, 66 r., dôchodca, Kolinovce
+70. Anna Rychnavská, 70 r., dôchodkyňa, Kolinovce
+71. Marián Tarbaj, 39 r., zamestnanec bezpečnostnej služby, Krompachy
+72. Beáta Antošová, 54 r., účtovníčka, Spišská Nová Ves
+73. Slavomír Palenčár, 69 r., dôchodca, Spišská Nová Ves
+74. Anna Palenčárová, 66 r., dôchodkyňa, Spišská Nová Ves
+75. Augustín Čambál, 72 r., dôchodca, Spišská Nová Ves
+76. Jozef Pavlanský, 70 r., živnostník, Spišská Nová Ves
+77. Eva Pavlanská, 66 r., dôchodkyňa, Spišská Nová Ves
+78. Roman Vansáč, 41 r., pracovný asistent, Spišská Nová Ves
+79. Beáta Harmanová, 52 r., sanitárka, Spišská Nová Ves
+80. Ján Plesník, Ing., 61 r., živnostník, Zvolen
